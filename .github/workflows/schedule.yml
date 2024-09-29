@@ -35,5 +35,5 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
           git add -A
-          git commit -m "Automated data update" || echo "No changes to commit"
+          git commit -m "⭐ Автоматическое Обновление 💥" || echo "No changes to commit"
           git push || echo "No changes to push"
