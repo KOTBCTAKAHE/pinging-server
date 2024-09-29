@@ -106,13 +106,15 @@ function updateFilesInfo(dataDir, filesInfoFile) {
         }
     });
 
-
-    fileData.sort((a, b) => a.creationTime - b.creationTime);
+    // Сортировка от новых к старым (по убыванию времени создания)
+    fileData.sort((a, b) => b.creationTime - a.creationTime);
     fileData.forEach(entry => delete entry.creationTime);
 
     fs.writeFileSync(filesInfoFile, JSON.stringify(fileData, null, 4), 'utf-8');
     console.info(`files.json updated with ${fileData.length} entries.`);
 }
+
+
 
 (async function main() {
     const lines = await fetchData(url);
