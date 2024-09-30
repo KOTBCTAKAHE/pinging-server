@@ -66,12 +66,10 @@ async function fetchData(url) {
     }
 }
 
-
 function saveDataToJson(data, filePath) {
     console.info(`Saving data to file: ${filePath}`);
     fs.writeFileSync(filePath, JSON.stringify(data, null, 4), 'utf-8');
 }
-
 
 function updateDb(ipPortList, dbFile) {
     let existingData = [];
@@ -84,11 +82,32 @@ function updateDb(ipPortList, dbFile) {
     fs.writeFileSync(dbFile, JSON.stringify(updatedData, null, 4), 'utf-8');
 }
 
+function deleteOldFiles(dataDir, maxAgeDays = 30) {
+    console.info(`Checking for files older than ${maxAgeDays} days to delete...`);
+    const currentTime = Date.now();
+    const maxAgeMs = maxAgeDays * 24 * 60 * 60 * 1000; // Преобразуем дни в миллисекунды
+
+    fs.readdirSync(dataDir).forEach(fileName => {
+        if (fileName.endsWith(".json") && fileName !== "db.json" && fileName !== "files.json") {
+            const filePath = path.join(dataDir, fileName);
+            const fileCreationTime = fs.statSync(filePath).ctimeMs;
+
+            if (currentTime - fileCreationTime > maxAgeMs) {
+                console.info(`Deleting file: ${fileName}, it is older than ${maxAgeDays} days.`);
+                fs.unlinkSync(filePath);
+            }
+        }
+    });
+}
 
 function updateFilesInfo(dataDir, filesInfoFile) {
     console.info(`Updating files info in ${filesInfoFile}`);
     const fileData = [];
 
+    // Удаляем старые файлы
+    deleteOldFiles(dataDir);
+
+    // Сканируем и собираем информацию о файлах
     fs.readdirSync(dataDir).forEach(fileName => {
         if (fileName.endsWith(".json") && fileName !== "db.json" && fileName !== "files.json") {
             const filePath = path.join(dataDir, fileName);
@@ -114,8 +133,6 @@ function updateFilesInfo(dataDir, filesInfoFile) {
     console.info(`files.json updated with ${fileData.length} entries.`);
 }
 
-
-
 (async function main() {
     const lines = await fetchData(url);
     const parsedData = lines
@@ -123,12 +140,10 @@ function updateFilesInfo(dataDir, filesInfoFile) {
         .map(line => parseLine(line))
         .filter(data => data !== null);
 
-
     saveDataToJson(parsedData, todayJsonFile);
 
     const ipPortList = parsedData.map(entry => entry.key);
     updateDb(ipPortList, dbFile);
-
 
     updateFilesInfo(dataDir, filesInfoFile);
 
