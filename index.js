@@ -1,27 +1,26 @@
+require('dotenv').config();
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-
-const url = process.env.URL2 || "https://giamping.com/repository/vpnrequestmobile.php?message=MBVRvEzBAVRWJST8NhVTRCAKbh2gO2ztsF5pwbdVfjd1UaqvsdTg9K122p1JxkuXgILF5npSo48jFf9ZAPnSe2rIRxq3QCGClEu21YSWLU6F3Nvf0XMJ2LU34sHuKa8go0DN0vHaf2OEFYNrhcXcGpozFezCj8OlN8cPzPrnIsLLMzBeTcglmF0jFS9gZZQipqU/3pbsftSRlUY1j5/BMpGPVPNhWMxE4m71qx7Ryfy5j967hXwjrP7dhrH63izHZyhbQIGPVPNXQXB1nf70ftqAgVEQNw==";
-
+const url = process.env.URL2;
+if (!url) {
+    console.error("Ошибка: Переменная окружения URL2 не установлена.");
+    process.exit(1);
+}
 
 const today = new Date().toISOString().split('T')[0];
-
 
 const dataDir = path.join(process.cwd(), "data");
 if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir);
 }
 
-
 const todayJsonFile = path.join(dataDir, `${today}.json`);
 const dbFile = path.join(dataDir, "db.json");
 const filesInfoFile = path.join(dataDir, "files.json");
 
-
-// Регулярное выражение для двух форматов
-const pattern = /(?:↑)?(?<id>\d+)•(?<sessions>\d+) SESSIONS.*?(?:USERS)?•(?<location_info>.*?)•(?<hostname>[A-Z0-9-]+\.OPENGW\.NET)(?::(?<port>[0-9]+))?•(?<country_info>.+?)•(?<ip>[0-9.]+)(?:↓)?|(?:↑)?(?<id_alt>\d+)•(?<sessions_alt>\d+) SESSIONS.*?•(?<location_info_alt>.*?)•(?<hostname_alt>[A-Z0-9-]+\.OPENGW\.NET)(?::(?<port_alt>[0-9]+))?•(?<country_info_alt>.+?)•(?<ip_alt>[0-9.]+)(?:↓)?/;
+const pattern = /(?:↑)?(?<id>\d+)\u2022(?<sessions>\d+) SESSIONS.*?(?:USERS)?\u2022(?<location_info>.*?)\u2022(?<hostname>[A-Z0-9-]+\.OPENGW\.NET)(?::(?<port>[0-9]+))?\u2022(?<country_info>.+?)\u2022(?<ip>[0-9.]+)(?:↓)?|(?:↑)?(?<id_alt>\d+)\u2022(?<sessions_alt>\d+) SESSIONS.*?\u2022(?<location_info_alt>.*?)\u2022(?<hostname_alt>[A-Z0-9-]+\.OPENGW\.NET)(?::(?<port_alt>[0-9]+))?\u2022(?<country_info_alt>.+?)\u2022(?<ip_alt>[0-9.]+)(?:↓)?/;
 
 function parseLine(line) {
     const match = pattern.exec(line);
@@ -53,7 +52,6 @@ function parseLine(line) {
     }
 }
 
-// Функция для получения данных
 async function fetchData(url) {
     try {
         console.info(`Fetching data from URL: ${url}`);
@@ -66,12 +64,10 @@ async function fetchData(url) {
     }
 }
 
-
 function saveDataToJson(data, filePath) {
     console.info(`Saving data to file: ${filePath}`);
     fs.writeFileSync(filePath, JSON.stringify(data, null, 4), 'utf-8');
 }
-
 
 function updateDb(ipPortList, dbFile) {
     let existingData = [];
@@ -83,7 +79,6 @@ function updateDb(ipPortList, dbFile) {
     console.info(`Updated db.json with ${updatedData.length} unique entries (removed duplicates).`);
     fs.writeFileSync(dbFile, JSON.stringify(updatedData, null, 4), 'utf-8');
 }
-
 
 function updateFilesInfo(dataDir, filesInfoFile) {
     console.info(`Updating files info in ${filesInfoFile}`);
@@ -106,15 +101,12 @@ function updateFilesInfo(dataDir, filesInfoFile) {
         }
     });
 
-    // Сортировка от новых к старым (по убыванию времени создания)
     fileData.sort((a, b) => b.creationTime - a.creationTime);
     fileData.forEach(entry => delete entry.creationTime);
 
     fs.writeFileSync(filesInfoFile, JSON.stringify(fileData, null, 4), 'utf-8');
     console.info(`files.json updated with ${fileData.length} entries.`);
 }
-
-
 
 (async function main() {
     const lines = await fetchData(url);
@@ -123,12 +115,10 @@ function updateFilesInfo(dataDir, filesInfoFile) {
         .map(line => parseLine(line))
         .filter(data => data !== null);
 
-
     saveDataToJson(parsedData, todayJsonFile);
 
     const ipPortList = parsedData.map(entry => entry.key);
     updateDb(ipPortList, dbFile);
-
 
     updateFilesInfo(dataDir, filesInfoFile);
 
