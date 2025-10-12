@@ -31,28 +31,28 @@
         "hostname": "VPN957208049.OPENGW.NET",
         "ip": "59.85.181.54",
         "port": 1720,
-        "info": "23 SESSIONS 65.07",
+        "info": "32 SESSIONS 65.07",
         "info2": "ASIA 65.07",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "TOKAI COMMUNICATIONS ..."
         },
-        "id": "1532574",
+        "id": "1538464",
         "key": "59.85.181.54:1720"
     },
     {
         "hostname": "VPN794913551.OPENGW.NET",
         "ip": "61.89.254.164",
         "port": 1886,
-        "info": "63 SESSIONS 82.45",
+        "info": "69 SESSIONS 82.45",
         "info2": "ASIA 82.45",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "KINTETSU CABLE NETWOR..."
         },
-        "id": "1520865",
+        "id": "1524696",
         "key": "61.89.254.164:1886"
     },
     {
@@ -70,20 +70,6 @@
         "key": "168.126.172.15:995"
     },
     {
-        "hostname": "VPN412251590.OPENGW.NET",
-        "ip": "153.184.8.132",
-        "port": 1832,
-        "info": "32 SESSIONS 60.23",
-        "info2": "ASIA 60.23",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "NTT COMMUNICATIONS CO..."
-        },
-        "id": "1499272",
-        "key": "153.184.8.132:1832"
-    },
-    {
         "hostname": "VPN696921539.OPENGW.NET",
         "ip": "182.20.250.146",
         "port": 1608,
@@ -96,6 +82,20 @@
         },
         "id": "1498052",
         "key": "182.20.250.146:1608"
+    },
+    {
+        "hostname": "VPN412251590.OPENGW.NET",
+        "ip": "153.184.8.132",
+        "port": 1832,
+        "info": "30 SESSIONS 60.23",
+        "info2": "ASIA 60.23",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "NTT COMMUNICATIONS CO..."
+        },
+        "id": "1497994",
+        "key": "153.184.8.132:1832"
     },
     {
         "hostname": "VPN872075294.OPENGW.NET",
@@ -112,73 +112,59 @@
         "key": "221.168.226.24:1353"
     },
     {
-        "hostname": "VPN356607128.OPENGW.NET",
-        "ip": "218.41.10.2",
-        "port": 1617,
-        "info": "104 SESSIONS 2,220.39",
-        "info2": "ASIA 2,220.39",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "SONY NETWORK COMMUNIC..."
-        },
-        "id": "1481378",
-        "key": "218.41.10.2:1617"
-    },
-    {
         "hostname": "VPN154724355.OPENGW.NET",
         "ip": "124.211.237.129",
         "port": 1752,
-        "info": "48 SESSIONS 39.73",
+        "info": "50 SESSIONS 39.73",
         "info2": "ASIA 39.73",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "KDDI CORPORATION"
         },
-        "id": "1480720",
+        "id": "1481974",
         "key": "124.211.237.129:1752"
-    },
-    {
-        "hostname": "VPN433650989.OPENGW.NET",
-        "ip": "114.19.166.236",
-        "port": 1903,
-        "info": "66 SESSIONS 94.14",
-        "info2": "ASIA 94.14",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "KDDI CORPORATION"
-        },
-        "id": "1465979",
-        "key": "114.19.166.236:1903"
     },
     {
         "hostname": "VPN686706955.OPENGW.NET",
         "ip": "180.92.19.57",
         "port": 1551,
-        "info": "62 SESSIONS 57.44",
+        "info": "69 SESSIONS 57.44",
         "info2": "ASIA 57.44",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "NEWMEDIA CORPORATION"
         },
-        "id": "1465688",
+        "id": "1470177",
         "key": "180.92.19.57:1551"
+    },
+    {
+        "hostname": "VPN433650989.OPENGW.NET",
+        "ip": "114.19.166.236",
+        "port": 1903,
+        "info": "65 SESSIONS 94.14",
+        "info2": "ASIA 94.14",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "1465365",
+        "key": "114.19.166.236:1903"
     },
     {
         "hostname": "VPN473388778.OPENGW.NET",
         "ip": "60.127.238.103",
         "port": 1889,
-        "info": "85 SESSIONS 198.00",
-        "info2": "ASIA 198.00",
+        "info": "83 SESSIONS 321.34",
+        "info2": "ASIA 321.34",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "1460027",
+        "id": "1458809",
         "key": "60.127.238.103:1889"
     },
     {
@@ -194,6 +180,20 @@
         },
         "id": "1455001",
         "key": "61.75.60.114:995"
+    },
+    {
+        "hostname": "VPN413896691.OPENGW.NET",
+        "ip": "59.129.41.98",
+        "port": 1472,
+        "info": "112 SESSIONS 782.69",
+        "info2": "ASIA 782.69",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "1454937",
+        "key": "59.129.41.98:1472"
     },
     {
         "hostname": "VPN421416087.OPENGW.NET",
@@ -213,43 +213,85 @@
         "hostname": "VPN238800317.OPENGW.NET",
         "ip": "118.104.144.45",
         "port": 1402,
-        "info": "61 SESSIONS 304.57",
+        "info": "65 SESSIONS 304.57",
         "info2": "ASIA 304.57",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "CHUBU TELECOMMUNICATI..."
         },
-        "id": "1440023",
+        "id": "1442442",
         "key": "118.104.144.45:1402"
+    },
+    {
+        "hostname": "VPN305114740.OPENGW.NET",
+        "ip": "121.187.145.64",
+        "port": 995,
+        "info": "53 SESSIONS 71.09",
+        "info2": "ASIA 71.09",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "1422709",
+        "key": "121.187.145.64:995"
     },
     {
         "hostname": "VPN926729611.OPENGW.NET",
         "ip": "59.7.207.18",
         "port": 1628,
-        "info": "80 SESSIONS 101.49",
+        "info": "83 SESSIONS 101.49",
         "info2": "ASIA 101.49",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "1418999",
+        "id": "1420880",
         "key": "59.7.207.18:1628"
     },
     {
         "hostname": "VPN705353032.OPENGW.NET",
         "ip": "180.229.33.160",
         "port": 1741,
-        "info": "34 SESSIONS 92.90",
+        "info": "39 SESSIONS 92.90",
         "info2": "ASIA 92.90",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "LG POWERCOMM"
         },
-        "id": "1410884",
+        "id": "1414136",
         "key": "180.229.33.160:1741"
+    },
+    {
+        "hostname": "VPN442086323.OPENGW.NET",
+        "ip": "119.172.209.34",
+        "port": 995,
+        "info": "18 SESSIONS 27.23",
+        "info2": "ASIA 27.23",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "JCOM CO  LTD"
+        },
+        "id": "1409063",
+        "key": "119.172.209.34:995"
+    },
+    {
+        "hostname": "VPN349251986.OPENGW.NET",
+        "ip": "160.13.94.41",
+        "port": 1389,
+        "info": "25 SESSIONS 207.19",
+        "info2": "ASIA 207.19",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "INTERNET INITIATIVE J..."
+        },
+        "id": "1408176",
+        "key": "160.13.94.41:1389"
     },
     {
         "hostname": "VPN105048124.OPENGW.NET",
@@ -269,15 +311,29 @@
         "hostname": "VPN751660673.OPENGW.NET",
         "ip": "118.37.219.250",
         "port": 1516,
-        "info": "44 SESSIONS 46.72",
+        "info": "46 SESSIONS 46.72",
         "info2": "ASIA 46.72",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "1403422",
+        "id": "1404663",
         "key": "118.37.219.250:1516"
+    },
+    {
+        "hostname": "VPN813229648.OPENGW.NET",
+        "ip": "211.59.244.162",
+        "port": 995,
+        "info": "66 SESSIONS 350.25",
+        "info2": "ASIA 350.25",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "1401971",
+        "key": "211.59.244.162:995"
     },
     {
         "hostname": "VPN783403575.OPENGW.NET",
@@ -336,45 +392,87 @@
         "key": "118.220.180.68:995"
     },
     {
+        "hostname": "VPN654153746.OPENGW.NET",
+        "ip": "184.22.53.13",
+        "port": 1582,
+        "info": "77 SESSIONS 221.93",
+        "info2": "ASIA 221.93",
+        "location": {
+            "country": "THAILAND",
+            "short": "TH ",
+            "name": "AIS FIBRE"
+        },
+        "id": "1353911",
+        "key": "184.22.53.13:1582"
+    },
+    {
+        "hostname": "VPN675124213.OPENGW.NET",
+        "ip": "14.32.227.116",
+        "port": 995,
+        "info": "22 SESSIONS 50.17",
+        "info2": "ASIA 50.17",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "1337627",
+        "key": "14.32.227.116:995"
+    },
+    {
+        "hostname": "VPN698319338.OPENGW.NET",
+        "ip": "182.161.192.105",
+        "port": 1609,
+        "info": "27 SESSIONS 47.77",
+        "info2": "ASIA 47.77",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "ULSAN JUNG ANG BROADC..."
+        },
+        "id": "1294185",
+        "key": "182.161.192.105:1609"
+    },
+    {
         "hostname": "VPN352091654.OPENGW.NET",
         "ip": "157.147.170.12",
         "port": 1551,
-        "info": "39 SESSIONS 166.16",
+        "info": "19 SESSIONS 166.16",
         "info2": "ASIA 166.16",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SONY NETWORK COMMUNIC..."
         },
-        "id": "1281352",
+        "id": "1268631",
         "key": "157.147.170.12:1551"
     },
     {
         "hostname": "VPN429650684.OPENGW.NET",
         "ip": "120.143.5.198",
         "port": 995,
-        "info": "42 SESSIONS 232.53",
+        "info": "41 SESSIONS 232.53",
         "info2": "ASIA 232.53",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "NTT PC COMMUNICATIONS..."
         },
-        "id": "1261069",
+        "id": "1260439",
         "key": "120.143.5.198:995"
     },
     {
         "hostname": "VPN834389872.OPENGW.NET",
         "ip": "42.114.227.157",
         "port": 1603,
-        "info": "88 SESSIONS 270.58",
+        "info": "83 SESSIONS 270.58",
         "info2": "ASIA 270.58",
         "location": {
             "country": "VIETNAM",
             "short": "VN ",
             "name": "FPT TELECOM COMPANY"
         },
-        "id": "1241651",
+        "id": "1238519",
         "key": "42.114.227.157:1603"
     },
     {
@@ -395,14 +493,14 @@
         "hostname": "VPN315431903.OPENGW.NET",
         "ip": "109.229.254.176",
         "port": 1206,
-        "info": "21 SESSIONS 15.06",
+        "info": "19 SESSIONS 15.06",
         "info2": "EUROPE 15.06",
         "location": {
             "country": "RUSSIA",
             "short": "RU ",
             "name": "MEGASETI LTD"
         },
-        "id": "1228269",
+        "id": "1227048",
         "key": "109.229.254.176:1206"
     },
     {
@@ -423,14 +521,14 @@
         "hostname": "VPN462339611.OPENGW.NET",
         "ip": "218.146.77.98",
         "port": 1740,
-        "info": "73 SESSIONS 11.34",
+        "info": "76 SESSIONS 11.34",
         "info2": "ASIA 11.34",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "1156121",
+        "id": "1152969",
         "key": "218.146.77.98:1740"
     },
     {
@@ -465,29 +563,15 @@
         "hostname": "VPN998728042.OPENGW.NET",
         "ip": "121.158.209.27",
         "port": 1685,
-        "info": "46 SESSIONS 52.68",
+        "info": "47 SESSIONS 52.68",
         "info2": "ASIA 52.68",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "1133007",
+        "id": "1133659",
         "key": "121.158.209.27:1685"
-    },
-    {
-        "hostname": "VPN664682327.OPENGW.NET",
-        "ip": "61.79.80.29",
-        "port": 1641,
-        "info": "68 SESSIONS 79.28",
-        "info2": "ASIA 79.28",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "1120931",
-        "key": "61.79.80.29:1641"
     },
     {
         "hostname": "N26.OPENGW.NET",
@@ -500,8 +584,22 @@
             "short": "JP ",
             "name": "SDCC JAPAN WEST AREA"
         },
-        "id": "1118131",
+        "id": "1120617",
         "key": "103.152.178.62:1194"
+    },
+    {
+        "hostname": "VPN664682327.OPENGW.NET",
+        "ip": "61.79.80.29",
+        "port": 1641,
+        "info": "66 SESSIONS 79.28",
+        "info2": "ASIA 79.28",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "1119620",
+        "key": "61.79.80.29:1641"
     },
     {
         "hostname": "VPN186444521.OPENGW.NET",
@@ -516,6 +614,20 @@
         },
         "id": "1068829",
         "key": "118.17.87.173:1674"
+    },
+    {
+        "hostname": "VPN687863320.OPENGW.NET",
+        "ip": "113.199.29.80",
+        "port": 1977,
+        "info": "23 SESSIONS 63.49",
+        "info2": "ASIA 63.49",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "ABN"
+        },
+        "id": "1057648",
+        "key": "113.199.29.80:1977"
     },
     {
         "hostname": "VPN430521010.OPENGW.NET",
@@ -533,6 +645,20 @@
     },
     {
         "hostname": "VPN764493214.OPENGW.NET",
+        "ip": "15.186.91.205",
+        "port": 1597,
+        "info": "38 SESSIONS AMERICA 335.52",
+        "info2": "NORTH AMERICA 335.52",
+        "location": {
+            "country": "UNITED STATES",
+            "short": "US ",
+            "name": "AMAZON 02"
+        },
+        "id": "1028742",
+        "key": "15.186.91.205:1597"
+    },
+    {
+        "hostname": "VPN764493214.OPENGW.NET",
         "ip": "14.101.50.23",
         "port": 1597,
         "info": "33 SESSIONS 335.52",
@@ -544,6 +670,20 @@
         },
         "id": "1025498",
         "key": "14.101.50.23:1597"
+    },
+    {
+        "hostname": "VPN507701119.OPENGW.NET",
+        "ip": "112.187.237.5",
+        "port": 995,
+        "info": "39 SESSIONS 21.21",
+        "info2": "ASIA 21.21",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "1018210",
+        "key": "112.187.237.5:995"
     },
     {
         "hostname": "VPN121994191.OPENGW.NET",
@@ -560,25 +700,11 @@
         "key": "114.173.28.188:1936"
     },
     {
-        "hostname": "VPN475557351.OPENGW.NET",
-        "ip": "14.33.107.111",
-        "port": 1524,
-        "info": "41 SESSIONS 55.63",
-        "info2": "ASIA 55.63",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "1014456",
-        "key": "14.33.107.111:1524"
-    },
-    {
         "hostname": "VPN601632926.OPENGW.NET",
         "ip": "79.105.5.6",
         "port": 1332,
-        "info": "13 SESSIONS 38.76",
-        "info2": "EUROPE 38.76",
+        "info": "13 SESSIONS 46.19",
+        "info2": "EUROPE 46.19",
         "location": {
             "country": "RUSSIA",
             "short": "RU ",
@@ -588,31 +714,31 @@
         "key": "79.105.5.6:1332"
     },
     {
-        "hostname": "VPN987683202.OPENGW.NET",
-        "ip": "113.162.181.51",
-        "port": 995,
-        "info": "64 SESSIONS 31.40",
-        "info2": "ASIA 31.40",
+        "hostname": "VPN475557351.OPENGW.NET",
+        "ip": "14.33.107.111",
+        "port": 1524,
+        "info": "32 SESSIONS 66.13",
+        "info2": "ASIA 66.13",
         "location": {
-            "country": "VIETNAM",
-            "short": "VN ",
-            "name": "VNPT CORP"
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
         },
-        "id": "1003857",
-        "key": "113.162.181.51:995"
+        "id": "1004486",
+        "key": "14.33.107.111:1524"
     },
     {
         "hostname": "VPN255954064.OPENGW.NET",
         "ip": "126.203.204.100",
         "port": 1983,
-        "info": "32 SESSIONS 94.14",
+        "info": "31 SESSIONS 94.14",
         "info2": "ASIA 94.14",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0977631",
+        "id": "0977010",
         "key": "126.203.204.100:1983"
     },
     {
@@ -628,6 +754,20 @@
         },
         "id": "0949322",
         "key": "221.71.233.87:1519"
+    },
+    {
+        "hostname": "VPN500785373.OPENGW.NET",
+        "ip": "221.155.135.166",
+        "port": 1636,
+        "info": "22 SESSIONS 460.58",
+        "info2": "ASIA 460.58",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0944572",
+        "key": "221.155.135.166:1636"
     },
     {
         "hostname": "VPN619868335.OPENGW.NET",
@@ -661,14 +801,14 @@
         "hostname": "VPN581703432.OPENGW.NET",
         "ip": "220.124.72.76",
         "port": 1243,
-        "info": "36 SESSIONS 77.10",
+        "info": "35 SESSIONS 77.10",
         "info2": "ASIA 77.10",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0930793",
+        "id": "0930142",
         "key": "220.124.72.76:1243"
     },
     {
@@ -686,6 +826,20 @@
         "key": "118.17.177.106:1735"
     },
     {
+        "hostname": "VPN652079114.OPENGW.NET",
+        "ip": "184.22.76.236",
+        "port": 1922,
+        "info": "82 SESSIONS 59.89",
+        "info2": "ASIA 59.89",
+        "location": {
+            "country": "THAILAND",
+            "short": "TH ",
+            "name": "AIS FIBRE"
+        },
+        "id": "0919935",
+        "key": "184.22.76.236:1922"
+    },
+    {
         "hostname": "VPN655036513.OPENGW.NET",
         "ip": "116.12.3.7",
         "port": 1331,
@@ -700,31 +854,17 @@
         "key": "116.12.3.7:1331"
     },
     {
-        "hostname": "VPN652079114.OPENGW.NET",
-        "ip": "184.22.76.236",
-        "port": 1922,
-        "info": "63 SESSIONS 59.89",
-        "info2": "ASIA 59.89",
-        "location": {
-            "country": "THAILAND",
-            "short": "TH ",
-            "name": "AIS FIBRE"
-        },
-        "id": "0907506",
-        "key": "184.22.76.236:1922"
-    },
-    {
         "hostname": "VPN683230242.OPENGW.NET",
         "ip": "42.125.132.145",
         "port": 1573,
-        "info": "19 SESSIONS 44.65",
+        "info": "18 SESSIONS 44.65",
         "info2": "ASIA 44.65",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "TOKAI COMMUNICATIONS ..."
         },
-        "id": "0878519",
+        "id": "0877872",
         "key": "42.125.132.145:1573"
     },
     {
@@ -745,57 +885,29 @@
         "hostname": "VPN780552999.OPENGW.NET",
         "ip": "126.25.233.231",
         "port": 1713,
-        "info": "20 SESSIONS 144.08",
+        "info": "13 SESSIONS 144.08",
         "info2": "ASIA 144.08",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0875298",
+        "id": "0870800",
         "key": "126.25.233.231:1713"
-    },
-    {
-        "hostname": "VPN185879306.OPENGW.NET",
-        "ip": "70.71.120.211",
-        "port": 1894,
-        "info": "14 SESSIONS AMERICA 342.91",
-        "info2": "NORTH AMERICA 342.91",
-        "location": {
-            "country": "CANADA",
-            "short": "CA ",
-            "name": "SHAW"
-        },
-        "id": "0874950",
-        "key": "70.71.120.211:1894"
     },
     {
         "hostname": "VPN285486729.OPENGW.NET",
         "ip": "116.82.239.43",
         "port": 1291,
-        "info": "30 SESSIONS 313.23",
+        "info": "31 SESSIONS 313.23",
         "info2": "ASIA 313.23",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SONY NETWORK COMMUNIC..."
         },
-        "id": "0840928",
+        "id": "0841559",
         "key": "116.82.239.43:1291"
-    },
-    {
-        "hostname": "VPN371215508.OPENGW.NET",
-        "ip": "121.103.21.26",
-        "port": 1382,
-        "info": "50 SESSIONS 967.56",
-        "info2": "ASIA 967.56",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "SONY NETWORK COMMUNIC..."
-        },
-        "id": "0829038",
-        "key": "121.103.21.26:1382"
     },
     {
         "hostname": "VPN606400466.OPENGW.NET",
@@ -812,31 +924,45 @@
         "key": "126.220.31.105:1219"
     },
     {
+        "hostname": "VPN371215508.OPENGW.NET",
+        "ip": "121.103.21.26",
+        "port": 1382,
+        "info": "39 SESSIONS 967.56",
+        "info2": "ASIA 967.56",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SONY NETWORK COMMUNIC..."
+        },
+        "id": "0822352",
+        "key": "121.103.21.26:1382"
+    },
+    {
         "hostname": "VPN251634266.OPENGW.NET",
         "ip": "119.175.224.182",
         "port": 1786,
-        "info": "18 SESSIONS 193.24",
+        "info": "21 SESSIONS 193.24",
         "info2": "ASIA 193.24",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "JCOM CO  LTD"
         },
-        "id": "0816634",
+        "id": "0818455",
         "key": "119.175.224.182:1786"
     },
     {
         "hostname": "VPN315092128.OPENGW.NET",
         "ip": "27.72.73.79",
         "port": 1758,
-        "info": "47 SESSIONS 35.39",
+        "info": "52 SESSIONS 35.39",
         "info2": "ASIA 35.39",
         "location": {
             "country": "VIETNAM",
             "short": "VN ",
             "name": "VIETTEL GROUP"
         },
-        "id": "0789135",
+        "id": "0792304",
         "key": "27.72.73.79:1758"
     },
     {
@@ -868,18 +994,60 @@
         "key": "61.74.234.69:995"
     },
     {
-        "hostname": "VPN194170357.OPENGW.NET",
-        "ip": "58.71.218.49",
-        "port": 443,
-        "info": "64 SESSIONS 55.53",
-        "info2": "ASIA 55.53",
+        "hostname": "VPN498198299.OPENGW.NET",
+        "ip": "125.202.44.37",
+        "port": 1670,
+        "info": "11 SESSIONS 231.42",
+        "info2": "ASIA 231.42",
         "location": {
-            "country": "MALAYSIA",
-            "short": "MY ",
-            "name": "BINARIANG BERHAD"
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "NTT COMMUNICATIONS CO..."
         },
-        "id": "0759539",
-        "key": "58.71.218.49:443"
+        "id": "0783984",
+        "key": "125.202.44.37:1670"
+    },
+    {
+        "hostname": "VPN390236852.OPENGW.NET",
+        "ip": "114.185.53.179",
+        "port": 1561,
+        "info": "43 SESSIONS 174.33",
+        "info2": "ASIA 174.33",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "NTT COMMUNICATIONS CO..."
+        },
+        "id": "0764598",
+        "key": "114.185.53.179:1561"
+    },
+    {
+        "hostname": "VPN304770407.OPENGW.NET",
+        "ip": "126.80.253.101",
+        "port": 1356,
+        "info": "28 SESSIONS 267.17",
+        "info2": "ASIA 267.17",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0763571",
+        "key": "126.80.253.101:1356"
+    },
+    {
+        "hostname": "VPN344251639.OPENGW.NET",
+        "ip": "222.9.254.216",
+        "port": 1914,
+        "info": "48 SESSIONS 928.90",
+        "info2": "ASIA 928.90",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "CHUBU TELECOMMUNICATI..."
+        },
+        "id": "0759180",
+        "key": "222.9.254.216:1914"
     },
     {
         "hostname": "VPN250931749.OPENGW.NET",
@@ -896,74 +1064,60 @@
         "key": "171.7.10.225:1800"
     },
     {
-        "hostname": "VPN304770407.OPENGW.NET",
-        "ip": "126.80.253.101",
-        "port": 1356,
-        "info": "19 SESSIONS 228.79",
-        "info2": "ASIA 228.79",
+        "hostname": "VPN833308193.OPENGW.NET",
+        "ip": "124.214.77.124",
+        "port": 1323,
+        "info": "46 SESSIONS 84.45",
+        "info2": "ASIA 84.45",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "SOFTBANK CORP"
+            "name": "KDDI CORPORATION"
         },
-        "id": "0758088",
-        "key": "126.80.253.101:1356"
-    },
-    {
-        "hostname": "VPN390236852.OPENGW.NET",
-        "ip": "114.185.53.179",
-        "port": 1561,
-        "info": "29 SESSIONS 174.33",
-        "info2": "ASIA 174.33",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "NTT COMMUNICATIONS CO..."
-        },
-        "id": "0755510",
-        "key": "114.185.53.179:1561"
+        "id": "0755061",
+        "key": "124.214.77.124:1323"
     },
     {
         "hostname": "VPN527341570.OPENGW.NET",
         "ip": "219.54.205.137",
         "port": 1600,
-        "info": "43 SESSIONS 916.48",
+        "info": "46 SESSIONS 916.48",
         "info2": "ASIA 916.48",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0753247",
+        "id": "0755061",
         "key": "219.54.205.137:1600"
     },
     {
-        "hostname": "VPN344251639.OPENGW.NET",
-        "ip": "222.9.254.216",
-        "port": 1914,
-        "info": "37 SESSIONS 928.90",
-        "info2": "ASIA 928.90",
+        "hostname": "VPN194170357.OPENGW.NET",
+        "ip": "58.71.218.49",
+        "port": 443,
+        "info": "53 SESSIONS 59.87",
+        "info2": "ASIA 59.87",
         "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "CHUBU TELECOMMUNICATI..."
+            "country": "MALAYSIA",
+            "short": "MY ",
+            "name": "BINARIANG BERHAD"
         },
-        "id": "0752059",
-        "key": "222.9.254.216:1914"
+        "id": "0752862",
+        "key": "58.71.218.49:443"
     },
     {
-        "hostname": "VPN524847605.OPENGW.NET",
-        "ip": "126.79.39.206",
-        "port": 1611,
-        "info": "23 SESSIONS 641.28",
-        "info2": "ASIA 641.28",
+        "hostname": "VPN955787428.OPENGW.NET",
+        "ip": "58.81.148.88",
+        "port": 1936,
+        "info": "18 SESSIONS 94.14",
+        "info2": "ASIA 94.14",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "SOFTBANK CORP"
+            "name": "ARTERIA NETWORKS CORP..."
         },
-        "id": "0750914",
-        "key": "126.79.39.206:1611"
+        "id": "0750304",
+        "key": "58.81.148.88:1936"
     },
     {
         "hostname": "VPN669010119.OPENGW.NET",
@@ -978,6 +1132,20 @@
         },
         "id": "0749588",
         "key": "180.199.182.93:1628"
+    },
+    {
+        "hostname": "VPN203513429.OPENGW.NET",
+        "ip": "121.103.127.204",
+        "port": 1702,
+        "info": "36 SESSIONS 526.28",
+        "info2": "ASIA 526.28",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SONY NETWORK COMMUNIC..."
+        },
+        "id": "0745898",
+        "key": "121.103.127.204:1702"
     },
     {
         "hostname": "VPN892730167.OPENGW.NET",
@@ -997,57 +1165,71 @@
         "hostname": "VPN192090430.OPENGW.NET",
         "ip": "126.141.81.205",
         "port": 1617,
-        "info": "18 SESSIONS 474.88",
+        "info": "17 SESSIONS 474.88",
         "info2": "ASIA 474.88",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0744837",
+        "id": "0744221",
         "key": "126.141.81.205:1617"
     },
     {
-        "hostname": "VPN203513429.OPENGW.NET",
-        "ip": "121.103.127.204",
-        "port": 1702,
-        "info": "34 SESSIONS 526.28",
-        "info2": "ASIA 526.28",
+        "hostname": "VPN499242130.OPENGW.NET",
+        "ip": "68.149.154.94",
+        "port": 1767,
+        "info": "84 SESSIONS AMERICA 506.25",
+        "info2": "NORTH AMERICA 506.25",
+        "location": {
+            "country": "CANADA",
+            "short": "CA ",
+            "name": "SHAW"
+        },
+        "id": "0742710",
+        "key": "68.149.154.94:1767"
+    },
+    {
+        "hostname": "VPN283378530.OPENGW.NET",
+        "ip": "124.102.234.79",
+        "port": 1334,
+        "info": "26 SESSIONS 205.59",
+        "info2": "ASIA 205.59",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "SONY NETWORK COMMUNIC..."
+            "name": "NTT COMMUNICATIONS CO..."
         },
-        "id": "0744642",
-        "key": "121.103.127.204:1702"
+        "id": "0740752",
+        "key": "124.102.234.79:1334"
+    },
+    {
+        "hostname": "VPN852829483.OPENGW.NET",
+        "ip": "221.153.209.69",
+        "port": 995,
+        "info": "0 SESSIONS 186.66",
+        "info2": "ASIA 186.66",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0739726",
+        "key": "221.153.209.69:995"
     },
     {
         "hostname": "VPN890220723.OPENGW.NET",
         "ip": "183.80.187.27",
         "port": 1360,
-        "info": "60 SESSIONS 134.46",
+        "info": "55 SESSIONS 134.46",
         "info2": "ASIA 134.46",
         "location": {
             "country": "VIETNAM",
             "short": "VN ",
             "name": "FPT TELECOM COMPANY"
         },
-        "id": "0741337",
+        "id": "0738147",
         "key": "183.80.187.27:1360"
-    },
-    {
-        "hostname": "VPN955787428.OPENGW.NET",
-        "ip": "58.81.148.88",
-        "port": 1936,
-        "info": "0 SESSIONS 94.14",
-        "info2": "ASIA 94.14",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "ARTERIA NETWORKS CORP..."
-        },
-        "id": "0738433",
-        "key": "58.81.148.88:1936"
     },
     {
         "hostname": "VPN351673976.OPENGW.NET",
@@ -1067,43 +1249,43 @@
         "hostname": "VPN393718194.OPENGW.NET",
         "ip": "60.108.22.99",
         "port": 1999,
-        "info": "13 SESSIONS 259.36",
+        "info": "11 SESSIONS 259.36",
         "info2": "ASIA 259.36",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0736950",
+        "id": "0735683",
         "key": "60.108.22.99:1999"
-    },
-    {
-        "hostname": "VPN499242130.OPENGW.NET",
-        "ip": "68.149.154.94",
-        "port": 1767,
-        "info": "75 SESSIONS AMERICA 506.25",
-        "info2": "NORTH AMERICA 506.25",
-        "location": {
-            "country": "CANADA",
-            "short": "CA ",
-            "name": "SHAW"
-        },
-        "id": "0736935",
-        "key": "68.149.154.94:1767"
     },
     {
         "hostname": "VPN228220032.OPENGW.NET",
         "ip": "126.227.3.136",
         "port": 1540,
-        "info": "28 SESSIONS 37.74",
+        "info": "27 SESSIONS 37.74",
         "info2": "ASIA 37.74",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0730994",
+        "id": "0730372",
         "key": "126.227.3.136:1540"
+    },
+    {
+        "hostname": "VPN288005021.OPENGW.NET",
+        "ip": "211.212.232.95",
+        "port": 1272,
+        "info": "12 SESSIONS 75.39",
+        "info2": "ASIA 75.39",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0726303",
+        "key": "211.212.232.95:1272"
     },
     {
         "hostname": "VPN571458413.OPENGW.NET",
@@ -1120,60 +1302,32 @@
         "key": "106.136.47.234:1931"
     },
     {
-        "hostname": "VPN743727631.OPENGW.NET",
-        "ip": "175.210.20.183",
-        "port": 1947,
-        "info": "40 SESSIONS 65.15",
-        "info2": "ASIA 65.15",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0721859",
-        "key": "175.210.20.183:1947"
-    },
-    {
-        "hostname": "VPN288005021.OPENGW.NET",
-        "ip": "211.212.232.95",
-        "port": 1272,
-        "info": "10 SESSIONS 75.39",
-        "info2": "ASIA 75.39",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
-        },
-        "id": "0718059",
-        "key": "211.212.232.95:1272"
-    },
-    {
-        "hostname": "VPN719770585.OPENGW.NET",
-        "ip": "118.47.70.97",
-        "port": 1573,
-        "info": "10 SESSIONS 86.23",
-        "info2": "ASIA 86.23",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0716955",
-        "key": "118.47.70.97:1573"
-    },
-    {
         "hostname": "VPN839531383.OPENGW.NET",
         "ip": "118.104.91.173",
         "port": 1868,
-        "info": "58 SESSIONS 849.60",
+        "info": "63 SESSIONS 849.60",
         "info2": "ASIA 849.60",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "CHUBU TELECOMMUNICATI..."
         },
-        "id": "0716825",
+        "id": "0720113",
         "key": "118.104.91.173:1868"
+    },
+    {
+        "hostname": "VPN719770585.OPENGW.NET",
+        "ip": "118.47.70.97",
+        "port": 1573,
+        "info": "13 SESSIONS 86.23",
+        "info2": "ASIA 86.23",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0718831",
+        "key": "118.47.70.97:1573"
     },
     {
         "hostname": "VPN557102870.OPENGW.NET",
@@ -1190,31 +1344,45 @@
         "key": "126.208.123.206:1706"
     },
     {
-        "hostname": "VPN198732322.OPENGW.NET",
+        "hostname": "VPN183580192.OPENGW.NET",
+        "ip": "59.147.136.61",
+        "port": 1569,
+        "info": "65 SESSIONS 370.86",
+        "info2": "ASIA 370.86",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SONY NETWORK COMMUNIC..."
+        },
+        "id": "0708030",
+        "key": "59.147.136.61:1569"
+    },
+    {
+        "hostname": "VPN390730018.OPENGW.NET",
         "ip": "180.50.154.32",
-        "port": 1312,
-        "info": "13 SESSIONS 194.46",
-        "info2": "ASIA 194.46",
+        "port": 1271,
+        "info": "11 SESSIONS 159.38",
+        "info2": "ASIA 159.38",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "NTT COMMUNICATIONS CO..."
         },
-        "id": "0707352",
-        "key": "180.50.154.32:1312"
+        "id": "0702933",
+        "key": "180.50.154.32:1271"
     },
     {
         "hostname": "VPN360139179.OPENGW.NET",
         "ip": "121.174.86.58",
         "port": 995,
-        "info": "10 SESSIONS 135.98",
+        "info": "13 SESSIONS 135.98",
         "info2": "ASIA 135.98",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0699787",
+        "id": "0701749",
         "key": "121.174.86.58:995"
     },
     {
@@ -1230,6 +1398,34 @@
         },
         "id": "0697899",
         "key": "211.224.156.100:1612"
+    },
+    {
+        "hostname": "VPN844051524.OPENGW.NET",
+        "ip": "222.113.90.228",
+        "port": 1851,
+        "info": "5 SESSIONS 89.28",
+        "info2": "ASIA 89.28",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0696547",
+        "key": "222.113.90.228:1851"
+    },
+    {
+        "hostname": "VPN697817189.OPENGW.NET",
+        "ip": "58.186.162.22",
+        "port": 1578,
+        "info": "30 SESSIONS 548.44",
+        "info2": "ASIA 548.44",
+        "location": {
+            "country": "VIETNAM",
+            "short": "VN ",
+            "name": "FPT TELECOM COMPANY"
+        },
+        "id": "0695813",
+        "key": "58.186.162.22:1578"
     },
     {
         "hostname": "VPN415399149.OPENGW.NET",
@@ -1274,6 +1470,20 @@
         "key": "14.40.21.44:995"
     },
     {
+        "hostname": "VPN574247699.OPENGW.NET",
+        "ip": "221.145.15.42",
+        "port": 1257,
+        "info": "5 SESSIONS 288.42",
+        "info2": "ASIA 288.42",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0685649",
+        "key": "221.145.15.42:1257"
+    },
+    {
         "hostname": "VPN346275605.OPENGW.NET",
         "ip": "221.152.121.56",
         "port": 1772,
@@ -1288,46 +1498,88 @@
         "key": "221.152.121.56:1772"
     },
     {
+        "hostname": "VPN121614268.OPENGW.NET",
+        "ip": "125.14.138.129",
+        "port": 1788,
+        "info": "22 SESSIONS 187.26",
+        "info2": "ASIA 187.26",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "JCOM CO  LTD"
+        },
+        "id": "0685389",
+        "key": "125.14.138.129:1788"
+    },
+    {
         "hostname": "VPN576448689.OPENGW.NET",
         "ip": "112.185.151.46",
         "port": 1632,
-        "info": "13 SESSIONS 64.80",
+        "info": "14 SESSIONS 64.80",
         "info2": "ASIA 64.80",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0684068",
+        "id": "0684696",
         "key": "112.185.151.46:1632"
     },
     {
         "hostname": "VPN190097816.OPENGW.NET",
         "ip": "126.15.236.158",
         "port": 1804,
-        "info": "10 SESSIONS 214.63",
+        "info": "12 SESSIONS 214.63",
         "info2": "ASIA 214.63",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0680724",
+        "id": "0682043",
         "key": "126.15.236.158:1804"
     },
     {
-        "hostname": "VPN790127243.OPENGW.NET",
-        "ip": "118.240.70.11",
-        "port": 1844,
-        "info": "30 SESSIONS 88.49",
-        "info2": "ASIA 88.49",
+        "hostname": "VPN877829506.OPENGW.NET",
+        "ip": "126.206.225.189",
+        "port": 1636,
+        "info": "39 SESSIONS 888.51",
+        "info2": "ASIA 888.51",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "SONY NETWORK COMMUNIC..."
+            "name": "SOFTBANK CORP"
         },
-        "id": "0677919",
-        "key": "118.240.70.11:1844"
+        "id": "0681654",
+        "key": "126.206.225.189:1636"
+    },
+    {
+        "hostname": "VPN502195131.OPENGW.NET",
+        "ip": "126.48.199.122",
+        "port": 1426,
+        "info": "7 SESSIONS 300.12",
+        "info2": "ASIA 300.12",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0678346",
+        "key": "126.48.199.122:1426"
+    },
+    {
+        "hostname": "VPN832297305.OPENGW.NET",
+        "ip": "118.104.247.216",
+        "port": 1935,
+        "info": "30 SESSIONS 333.56",
+        "info2": "ASIA 333.56",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "CHUBU TELECOMMUNICATI..."
+        },
+        "id": "0676540",
+        "key": "118.104.247.216:1935"
     },
     {
         "hostname": "VPN705026594.OPENGW.NET",
@@ -1344,18 +1596,18 @@
         "key": "115.65.91.227:1774"
     },
     {
-        "hostname": "VPN832297305.OPENGW.NET",
-        "ip": "118.104.247.216",
-        "port": 1935,
-        "info": "29 SESSIONS 333.56",
-        "info2": "ASIA 333.56",
+        "hostname": "VPN267999954.OPENGW.NET",
+        "ip": "153.168.58.109",
+        "port": 1439,
+        "info": "27 SESSIONS 357.71",
+        "info2": "ASIA 357.71",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "CHUBU TELECOMMUNICATI..."
+            "name": "NTT COMMUNICATIONS CO..."
         },
-        "id": "0675899",
-        "key": "118.104.247.216:1935"
+        "id": "0676044",
+        "key": "153.168.58.109:1439"
     },
     {
         "hostname": "VPN528785445.OPENGW.NET",
@@ -1372,18 +1624,18 @@
         "key": "126.29.1.144:1972"
     },
     {
-        "hostname": "VPN502195131.OPENGW.NET",
-        "ip": "126.48.199.122",
-        "port": 1426,
-        "info": "2 SESSIONS 300.12",
-        "info2": "ASIA 300.12",
+        "hostname": "VPN158317397.OPENGW.NET",
+        "ip": "116.65.94.24",
+        "port": 1387,
+        "info": "16 SESSIONS 93.46",
+        "info2": "ASIA 93.46",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "SOFTBANK CORP"
+            "name": "JCOM CO  LTD"
         },
-        "id": "0675059",
-        "key": "126.48.199.122:1426"
+        "id": "0674606",
+        "key": "116.65.94.24:1387"
     },
     {
         "hostname": "VPN442293272.OPENGW.NET",
@@ -1414,18 +1666,46 @@
         "key": "118.159.108.111:1281"
     },
     {
+        "hostname": "VPN610928903.OPENGW.NET",
+        "ip": "60.236.65.200",
+        "port": 1663,
+        "info": "24 SESSIONS 211.39",
+        "info2": "ASIA 211.39",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "BIGLOBE INC"
+        },
+        "id": "0672531",
+        "key": "60.236.65.200:1663"
+    },
+    {
         "hostname": "VPN366881259.OPENGW.NET",
         "ip": "121.183.242.194",
         "port": 1532,
-        "info": "16 SESSIONS 71.52",
+        "info": "15 SESSIONS 71.52",
         "info2": "ASIA 71.52",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0672831",
+        "id": "0672221",
         "key": "121.183.242.194:1532"
+    },
+    {
+        "hostname": "VPN941975760.OPENGW.NET",
+        "ip": "222.15.59.221",
+        "port": 1710,
+        "info": "24 SESSIONS 92.71",
+        "info2": "ASIA 92.71",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "0672066",
+        "key": "222.15.59.221:1710"
     },
     {
         "hostname": "VPN974047537.OPENGW.NET",
@@ -1442,62 +1722,6 @@
         "key": "175.212.24.226:995"
     },
     {
-        "hostname": "VPN158317397.OPENGW.NET",
-        "ip": "116.65.94.24",
-        "port": 1387,
-        "info": "10 SESSIONS 93.46",
-        "info2": "ASIA 93.46",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "JCOM CO  LTD"
-        },
-        "id": "0670679",
-        "key": "116.65.94.24:1387"
-    },
-    {
-        "hostname": "VPN610928903.OPENGW.NET",
-        "ip": "60.236.65.200",
-        "port": 1663,
-        "info": "21 SESSIONS 211.39",
-        "info2": "ASIA 211.39",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "BIGLOBE INC"
-        },
-        "id": "0670579",
-        "key": "60.236.65.200:1663"
-    },
-    {
-        "hostname": "VPN877829506.OPENGW.NET",
-        "ip": "126.206.225.189",
-        "port": 1636,
-        "info": "19 SESSIONS 916.06",
-        "info2": "ASIA 916.06",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "SOFTBANK CORP"
-        },
-        "id": "0668953",
-        "key": "126.206.225.189:1636"
-    },
-    {
-        "hostname": "VPN887494588.OPENGW.NET",
-        "ip": "27.89.110.137",
-        "port": 1544,
-        "info": "25 SESSIONS 92.36",
-        "info2": "ASIA 92.36",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "KDDI CORPORATION"
-        },
-        "id": "0668590",
-        "key": "27.89.110.137:1544"
-    },
-    {
         "hostname": "VPN844183941.OPENGW.NET",
         "ip": "126.108.239.49",
         "port": 1292,
@@ -1512,18 +1736,18 @@
         "key": "126.108.239.49:1292"
     },
     {
-        "hostname": "VPN833308193.OPENGW.NET",
-        "ip": "124.214.77.124",
-        "port": 1323,
-        "info": "23 SESSIONS 84.45",
-        "info2": "ASIA 84.45",
+        "hostname": "VPN887494588.OPENGW.NET",
+        "ip": "27.89.110.137",
+        "port": 1544,
+        "info": "21 SESSIONS 92.36",
+        "info2": "ASIA 92.36",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "KDDI CORPORATION"
         },
-        "id": "0666188",
-        "key": "124.214.77.124:1323"
+        "id": "0666074",
+        "key": "27.89.110.137:1544"
     },
     {
         "hostname": "VPN342314189.OPENGW.NET",
@@ -1540,18 +1764,18 @@
         "key": "211.185.213.155:995"
     },
     {
-        "hostname": "VPN106558468.OPENGW.NET",
-        "ip": "70.69.200.251",
-        "port": 1782,
-        "info": "67 SESSIONS AMERICA 369.60",
-        "info2": "NORTH AMERICA 369.60",
+        "hostname": "VPN837486677.OPENGW.NET",
+        "ip": "171.7.136.190",
+        "port": 1359,
+        "info": "76 SESSIONS 655.53",
+        "info2": "ASIA 655.53",
         "location": {
-            "country": "CANADA",
-            "short": "CA ",
-            "name": "SHAW"
+            "country": "THAILAND",
+            "short": "TH ",
+            "name": "TRIPLE T BROADBAND PU..."
         },
-        "id": "0661820",
-        "key": "70.69.200.251:1782"
+        "id": "0664479",
+        "key": "171.7.136.190:1359"
     },
     {
         "hostname": "VPN910622755.OPENGW.NET",
@@ -1568,20 +1792,6 @@
         "key": "59.142.67.95:1568"
     },
     {
-        "hostname": "VPN837486677.OPENGW.NET",
-        "ip": "171.7.136.190",
-        "port": 1359,
-        "info": "70 SESSIONS 655.53",
-        "info2": "ASIA 655.53",
-        "location": {
-            "country": "THAILAND",
-            "short": "TH ",
-            "name": "TRIPLE T BROADBAND PU..."
-        },
-        "id": "0660848",
-        "key": "171.7.136.190:1359"
-    },
-    {
         "hostname": "VPN491479594.OPENGW.NET",
         "ip": "221.45.42.147",
         "port": 1469,
@@ -1594,6 +1804,34 @@
         },
         "id": "0658496",
         "key": "221.45.42.147:1469"
+    },
+    {
+        "hostname": "VPN885534062.OPENGW.NET",
+        "ip": "111.217.204.169",
+        "port": 1787,
+        "info": "27 SESSIONS 951.38",
+        "info2": "ASIA 951.38",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SONY NETWORK COMMUNIC..."
+        },
+        "id": "0657922",
+        "key": "111.217.204.169:1787"
+    },
+    {
+        "hostname": "VPN283927011.OPENGW.NET",
+        "ip": "114.205.210.138",
+        "port": 995,
+        "info": "20 SESSIONS 86.43",
+        "info2": "ASIA 86.43",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0656975",
+        "key": "114.205.210.138:995"
     },
     {
         "hostname": "VPN454359584.OPENGW.NET",
@@ -1610,32 +1848,46 @@
         "key": "182.217.161.57:1984"
     },
     {
-        "hostname": "VPN885534062.OPENGW.NET",
-        "ip": "111.217.204.169",
-        "port": 1787,
-        "info": "23 SESSIONS 940.51",
-        "info2": "ASIA 940.51",
+        "hostname": "VPN618984773.OPENGW.NET",
+        "ip": "60.100.178.249",
+        "port": 1387,
+        "info": "15 SESSIONS 95.52",
+        "info2": "ASIA 95.52",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "SONY NETWORK COMMUNIC..."
+            "name": "SOFTBANK CORP"
         },
-        "id": "0655394",
-        "key": "111.217.204.169:1787"
+        "id": "0655640",
+        "key": "60.100.178.249:1387"
     },
     {
         "hostname": "VPN475862864.OPENGW.NET",
         "ip": "143.189.40.52",
         "port": 1574,
-        "info": "11 SESSIONS 227.83",
+        "info": "12 SESSIONS 227.83",
         "info2": "ASIA 227.83",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SONY NETWORK COMMUNIC..."
         },
-        "id": "0653261",
+        "id": "0653893",
         "key": "143.189.40.52:1574"
+    },
+    {
+        "hostname": "VPN679218486.OPENGW.NET",
+        "ip": "39.3.65.200",
+        "port": 1293,
+        "info": "15 SESSIONS 51.96",
+        "info2": "ASIA 51.96",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0652321",
+        "key": "39.3.65.200:1293"
     },
     {
         "hostname": "IDCRMN2.OPENGW.NET",
@@ -1652,6 +1904,20 @@
         "key": "171.7.89.251:444"
     },
     {
+        "hostname": "VPN260197435.OPENGW.NET",
+        "ip": "121.175.252.174",
+        "port": 1801,
+        "info": "20 SESSIONS 246.56",
+        "info2": "ASIA 246.56",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0651994",
+        "key": "121.175.252.174:1801"
+    },
+    {
         "hostname": "VPN605086150.OPENGW.NET",
         "ip": "113.153.98.225",
         "port": 1486,
@@ -1666,6 +1932,34 @@
         "key": "113.153.98.225:1486"
     },
     {
+        "hostname": "VPN473931768.OPENGW.NET",
+        "ip": "126.22.78.196",
+        "port": 1432,
+        "info": "16 SESSIONS 108.61",
+        "info2": "ASIA 108.61",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0650419",
+        "key": "126.22.78.196:1432"
+    },
+    {
+        "hostname": "VPN190140048.OPENGW.NET",
+        "ip": "27.113.202.220",
+        "port": 1484,
+        "info": "20 SESSIONS 208.33",
+        "info2": "ASIA 208.33",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "ZTV CO LTD"
+        },
+        "id": "0650201",
+        "key": "27.113.202.220:1484"
+    },
+    {
         "hostname": "VPN196438166.OPENGW.NET",
         "ip": "106.155.167.26",
         "port": 1878,
@@ -1678,34 +1972,6 @@
         },
         "id": "0649144",
         "key": "106.155.167.26:1878"
-    },
-    {
-        "hostname": "VPN473931768.OPENGW.NET",
-        "ip": "126.22.78.196",
-        "port": 1432,
-        "info": "12 SESSIONS 108.61",
-        "info2": "ASIA 108.61",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "SOFTBANK CORP"
-        },
-        "id": "0647950",
-        "key": "126.22.78.196:1432"
-    },
-    {
-        "hostname": "VPN208143625.OPENGW.NET",
-        "ip": "111.96.146.126",
-        "port": 1874,
-        "info": "38 SESSIONS 960.83",
-        "info2": "ASIA 960.83",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "KDDI CORPORATION"
-        },
-        "id": "0647356",
-        "key": "111.96.146.126:1874"
     },
     {
         "hostname": "VPN292277072.OPENGW.NET",
@@ -1736,18 +2002,18 @@
         "key": "203.168.118.127:1596"
     },
     {
-        "hostname": "VPN507870672.OPENGW.NET",
-        "ip": "124.96.65.97",
-        "port": 1821,
-        "info": "8 SESSIONS 85.32",
-        "info2": "ASIA 85.32",
+        "hostname": "VPN307512721.OPENGW.NET",
+        "ip": "59.138.150.96",
+        "port": 1522,
+        "info": "6 SESSIONS 960.80",
+        "info2": "ASIA 960.80",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "NTT COMMUNICATIONS CO..."
+            "name": "KDDI CORPORATION"
         },
-        "id": "0645984",
-        "key": "124.96.65.97:1821"
+        "id": "0646075",
+        "key": "59.138.150.96:1522"
     },
     {
         "hostname": "VPN917433523.OPENGW.NET",
@@ -1762,6 +2028,20 @@
         },
         "id": "0645648",
         "key": "220.109.162.203:1818"
+    },
+    {
+        "hostname": "VPN208143625.OPENGW.NET",
+        "ip": "111.96.146.126",
+        "port": 1874,
+        "info": "35 SESSIONS 974.00",
+        "info2": "ASIA 974.00",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "0645488",
+        "key": "111.96.146.126:1874"
     },
     {
         "hostname": "VPN276474716.OPENGW.NET",
@@ -1792,32 +2072,74 @@
         "key": "222.0.133.151:1212"
     },
     {
+        "hostname": "VPN507870672.OPENGW.NET",
+        "ip": "124.96.65.97",
+        "port": 1821,
+        "info": "6 SESSIONS 96.31",
+        "info2": "ASIA 96.31",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "NTT COMMUNICATIONS CO..."
+        },
+        "id": "0644717",
+        "key": "124.96.65.97:1821"
+    },
+    {
+        "hostname": "VPN980306542.OPENGW.NET",
+        "ip": "49.250.79.62",
+        "port": 1274,
+        "info": "16 SESSIONS 205.03",
+        "info2": "ASIA 205.03",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "JCOM CO  LTD"
+        },
+        "id": "0644256",
+        "key": "49.250.79.62:1274"
+    },
+    {
         "hostname": "VPN101373190.OPENGW.NET",
         "ip": "123.48.124.51",
         "port": 1339,
-        "info": "4 SESSIONS 776.98",
+        "info": "7 SESSIONS 776.98",
         "info2": "ASIA 776.98",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "CHUBU TELECOMMUNICATI..."
         },
-        "id": "0641727",
+        "id": "0643578",
         "key": "123.48.124.51:1339"
     },
     {
-        "hostname": "VPN764604624.OPENGW.NET",
-        "ip": "126.4.229.69",
-        "port": 1771,
-        "info": "10 SESSIONS 230.39",
-        "info2": "ASIA 230.39",
+        "hostname": "VPN901347259.OPENGW.NET",
+        "ip": "180.144.98.133",
+        "port": 1698,
+        "info": "4 SESSIONS 136.63",
+        "info2": "ASIA 136.63",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "OPTAGE INC"
+        },
+        "id": "0642392",
+        "key": "180.144.98.133:1698"
+    },
+    {
+        "hostname": "VPN503186388.OPENGW.NET",
+        "ip": "126.88.211.239",
+        "port": 1887,
+        "info": "2 SESSIONS 238.69",
+        "info2": "ASIA 238.69",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0641472",
-        "key": "126.4.229.69:1771"
+        "id": "0641355",
+        "key": "126.88.211.239:1887"
     },
     {
         "hostname": "VPN720182679.OPENGW.NET",
@@ -1848,46 +2170,60 @@
         "key": "126.141.45.55:1488"
     },
     {
-        "hostname": "VPN572863073.OPENGW.NET",
-        "ip": "92.37.129.5",
-        "port": 1429,
-        "info": "5 SESSIONS 95.26",
-        "info2": "EUROPE 95.26",
-        "location": {
-            "country": "RUSSIA",
-            "short": "RU ",
-            "name": "ROSTELECOM"
-        },
-        "id": "0640960",
-        "key": "92.37.129.5:1429"
-    },
-    {
-        "hostname": "VPN391687151.OPENGW.NET",
-        "ip": "126.72.100.109",
-        "port": 1830,
-        "info": "9 SESSIONS 379.03",
-        "info2": "ASIA 379.03",
+        "hostname": "VPN764604624.OPENGW.NET",
+        "ip": "126.4.229.69",
+        "port": 1771,
+        "info": "9 SESSIONS 230.39",
+        "info2": "ASIA 230.39",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0640518",
-        "key": "126.72.100.109:1830"
+        "id": "0640843",
+        "key": "126.4.229.69:1771"
+    },
+    {
+        "hostname": "VPN308830853.OPENGW.NET",
+        "ip": "27.94.74.42",
+        "port": 1743,
+        "info": "2 SESSIONS 678.19",
+        "info2": "ASIA 678.19",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "0639891",
+        "key": "27.94.74.42:1743"
     },
     {
         "hostname": "VPN444184251.OPENGW.NET",
         "ip": "60.108.64.157",
         "port": 1460,
-        "info": "41 SESSIONS 291.92",
+        "info": "40 SESSIONS 291.92",
         "info2": "ASIA 291.92",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0640117",
+        "id": "0639509",
         "key": "60.108.64.157:1460"
+    },
+    {
+        "hostname": "VPN391687151.OPENGW.NET",
+        "ip": "126.72.100.109",
+        "port": 1830,
+        "info": "7 SESSIONS 379.03",
+        "info2": "ASIA 379.03",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0639223",
+        "key": "126.72.100.109:1830"
     },
     {
         "hostname": "VPN339723621.OPENGW.NET",
@@ -1904,32 +2240,60 @@
         "key": "59.10.175.34:995"
     },
     {
-        "hostname": "VPN980306542.OPENGW.NET",
-        "ip": "49.250.79.62",
-        "port": 1274,
-        "info": "6 SESSIONS 205.03",
-        "info2": "ASIA 205.03",
+        "hostname": "VPN519429597.OPENGW.NET",
+        "ip": "116.65.223.137",
+        "port": 1881,
+        "info": "1 SESSIONS 241.27",
+        "info2": "ASIA 241.27",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "JCOM CO  LTD"
         },
-        "id": "0637766",
-        "key": "49.250.79.62:1274"
+        "id": "0637615",
+        "key": "116.65.223.137:1881"
+    },
+    {
+        "hostname": "VPN496852164.OPENGW.NET",
+        "ip": "219.109.248.173",
+        "port": 1316,
+        "info": "1 SESSIONS 287.60",
+        "info2": "ASIA 287.60",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "ZTV CO LTD"
+        },
+        "id": "0636482",
+        "key": "219.109.248.173:1316"
     },
     {
         "hostname": "VPN718769017.OPENGW.NET",
         "ip": "61.78.241.196",
         "port": 995,
-        "info": "11 SESSIONS 67.68",
+        "info": "12 SESSIONS 67.68",
         "info2": "ASIA 67.68",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0635413",
+        "id": "0636057",
         "key": "61.78.241.196:995"
+    },
+    {
+        "hostname": "VPN949484217.OPENGW.NET",
+        "ip": "131.129.142.28",
+        "port": 1475,
+        "info": "0 SESSIONS 195.27",
+        "info2": "ASIA 195.27",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "ASAHI NET"
+        },
+        "id": "0635177",
+        "key": "131.129.142.28:1475"
     },
     {
         "hostname": "VPN667126366.OPENGW.NET",
@@ -1946,18 +2310,74 @@
         "key": "118.44.209.109:995"
     },
     {
-        "hostname": "VPN766135394.OPENGW.NET",
-        "ip": "180.220.93.133",
-        "port": 1307,
-        "info": "8 SESSIONS 197.54",
-        "info2": "ASIA 197.54",
+        "hostname": "VPN805442422.OPENGW.NET",
+        "ip": "115.38.116.221",
+        "port": 1446,
+        "info": "5 SESSIONS 881.64",
+        "info2": "ASIA 881.64",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "JCOM CO  LTD"
+            "name": "CHUBU TELECOMMUNICATI..."
         },
-        "id": "0631852",
-        "key": "180.220.93.133:1307"
+        "id": "0634668",
+        "key": "115.38.116.221:1446"
+    },
+    {
+        "hostname": "VPN875232021.OPENGW.NET",
+        "ip": "124.60.154.81",
+        "port": 1594,
+        "info": "27 SESSIONS 633.40",
+        "info2": "ASIA 633.40",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "LG POWERCOMM"
+        },
+        "id": "0632768",
+        "key": "124.60.154.81:1594"
+    },
+    {
+        "hostname": "VPN650475175.OPENGW.NET",
+        "ip": "180.52.12.73",
+        "port": 1573,
+        "info": "5 SESSIONS 194.70",
+        "info2": "ASIA 194.70",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "NTT COMMUNICATIONS CO..."
+        },
+        "id": "0632319",
+        "key": "180.52.12.73:1573"
+    },
+    {
+        "hostname": "VPN858962315.OPENGW.NET",
+        "ip": "221.155.90.174",
+        "port": 995,
+        "info": "40 SESSIONS 88.63",
+        "info2": "ASIA 88.63",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0631993",
+        "key": "221.155.90.174:995"
+    },
+    {
+        "hostname": "VPN458987833.OPENGW.NET",
+        "ip": "121.167.71.187",
+        "port": 995,
+        "info": "9 SESSIONS 115.06",
+        "info2": "ASIA 115.06",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0631943",
+        "key": "121.167.71.187:995"
     },
     {
         "hostname": "VPN946255346.OPENGW.NET",
@@ -1988,6 +2408,20 @@
         "key": "211.230.98.58:995"
     },
     {
+        "hostname": "VPN898818828.OPENGW.NET",
+        "ip": "106.179.100.57",
+        "port": 1421,
+        "info": "14 SESSIONS 618.46",
+        "info2": "ASIA 618.46",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "0630410",
+        "key": "106.179.100.57:1421"
+    },
+    {
         "hostname": "VPN273981271.OPENGW.NET",
         "ip": "118.83.39.22",
         "port": 1898,
@@ -2016,60 +2450,46 @@
         "key": "60.73.24.196:1818"
     },
     {
-        "hostname": "VPN458987833.OPENGW.NET",
-        "ip": "121.167.71.187",
-        "port": 995,
-        "info": "4 SESSIONS 115.06",
-        "info2": "ASIA 115.06",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0628816",
-        "key": "121.167.71.187:995"
-    },
-    {
-        "hostname": "VPN644486321.OPENGW.NET",
-        "ip": "222.96.225.162",
-        "port": 995,
-        "info": "4 SESSIONS 262.30",
-        "info2": "ASIA 262.30",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0627375",
-        "key": "222.96.225.162:995"
-    },
-    {
-        "hostname": "VPN898818828.OPENGW.NET",
-        "ip": "106.179.100.57",
-        "port": 1421,
-        "info": "9 SESSIONS 618.46",
-        "info2": "ASIA 618.46",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "KDDI CORPORATION"
-        },
-        "id": "0627238",
-        "key": "106.179.100.57:1421"
-    },
-    {
         "hostname": "VPN580148051.OPENGW.NET",
         "ip": "121.144.206.127",
         "port": 1921,
-        "info": "4 SESSIONS 78.97",
+        "info": "8 SESSIONS 78.97",
         "info2": "ASIA 78.97",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0626438",
+        "id": "0629047",
         "key": "121.144.206.127:1921"
+    },
+    {
+        "hostname": "VPN766135394.OPENGW.NET",
+        "ip": "180.220.93.133",
+        "port": 1307,
+        "info": "0 SESSIONS 197.54",
+        "info2": "ASIA 197.54",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "JCOM CO  LTD"
+        },
+        "id": "0626896",
+        "key": "180.220.93.133:1307"
+    },
+    {
+        "hostname": "VPN644486321.OPENGW.NET",
+        "ip": "222.96.225.162",
+        "port": 995,
+        "info": "3 SESSIONS 262.30",
+        "info2": "ASIA 262.30",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0626735",
+        "key": "222.96.225.162:995"
     },
     {
         "hostname": "VPN567916357.OPENGW.NET",
@@ -2100,6 +2520,20 @@
         "key": "175.108.218.15:1223"
     },
     {
+        "hostname": "VPN509640821.OPENGW.NET",
+        "ip": "220.108.51.219",
+        "port": 1448,
+        "info": "11 SESSIONS 358.91",
+        "info2": "ASIA 358.91",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "NTT COMMUNICATIONS CO..."
+        },
+        "id": "0624594",
+        "key": "220.108.51.219:1448"
+    },
+    {
         "hostname": "VPN819167691.OPENGW.NET",
         "ip": "222.119.113.183",
         "port": 995,
@@ -2114,25 +2548,11 @@
         "key": "222.119.113.183:995"
     },
     {
-        "hostname": "VPN455812415.OPENGW.NET",
-        "ip": "126.117.191.143",
-        "port": 1673,
-        "info": "5 SESSIONS 391.57",
-        "info2": "ASIA 391.57",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "SOFTBANK CORP"
-        },
-        "id": "0623026",
-        "key": "126.117.191.143:1673"
-    },
-    {
         "hostname": "VPN647204175.OPENGW.NET",
         "ip": "126.84.183.100",
         "port": 1667,
-        "info": "7 SESSIONS 159.15",
-        "info2": "ASIA 159.15",
+        "info": "7 SESSIONS 174.64",
+        "info2": "ASIA 174.64",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
@@ -2140,6 +2560,20 @@
         },
         "id": "0621874",
         "key": "126.84.183.100:1667"
+    },
+    {
+        "hostname": "VPN787695267.OPENGW.NET",
+        "ip": "124.211.194.63",
+        "port": 1656,
+        "info": "22 SESSIONS 85.62",
+        "info2": "ASIA 85.62",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "KDDI CORPORATION"
+        },
+        "id": "0621832",
+        "key": "124.211.194.63:1656"
     },
     {
         "hostname": "VPN146162492.OPENGW.NET",
@@ -2154,6 +2588,34 @@
         },
         "id": "0621331",
         "key": "14.44.69.223:1897"
+    },
+    {
+        "hostname": "VPN401216765.OPENGW.NET",
+        "ip": "126.95.160.8",
+        "port": 1903,
+        "info": "7 SESSIONS 445.31",
+        "info2": "ASIA 445.31",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0620866",
+        "key": "126.95.160.8:1903"
+    },
+    {
+        "hostname": "VPN699884073.OPENGW.NET",
+        "ip": "126.120.236.29",
+        "port": 1556,
+        "info": "6 SESSIONS 506.85",
+        "info2": "ASIA 506.85",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "SOFTBANK CORP"
+        },
+        "id": "0620294",
+        "key": "126.120.236.29:1556"
     },
     {
         "hostname": "VPN132141539.OPENGW.NET",
@@ -2184,20 +2646,6 @@
         "key": "42.116.52.251:1228"
     },
     {
-        "hostname": "VPN401216765.OPENGW.NET",
-        "ip": "126.95.160.8",
-        "port": 1903,
-        "info": "3 SESSIONS 445.31",
-        "info2": "ASIA 445.31",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "SOFTBANK CORP"
-        },
-        "id": "0618361",
-        "key": "126.95.160.8:1903"
-    },
-    {
         "hostname": "VPN966866270.OPENGW.NET",
         "ip": "119.238.78.177",
         "port": 1870,
@@ -2208,8 +2656,22 @@
             "short": "JP ",
             "name": "BIGLOBE INC"
         },
-        "id": "0617892",
+        "id": "0618852",
         "key": "119.238.78.177:1870"
+    },
+    {
+        "hostname": "VPN959616210.OPENGW.NET",
+        "ip": "180.197.123.248",
+        "port": 1455,
+        "info": "0 SESSIONS 51.91",
+        "info2": "ASIA 51.91",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "CHUBU TELECOMMUNICATI..."
+        },
+        "id": "0618535",
+        "key": "180.197.123.248:1455"
     },
     {
         "hostname": "VPN349909106.OPENGW.NET",
@@ -2240,6 +2702,20 @@
         "key": "60.148.113.252:1984"
     },
     {
+        "hostname": "VPN137374619.OPENGW.NET",
+        "ip": "220.146.253.251",
+        "port": 1439,
+        "info": "6 SESSIONS 192.45",
+        "info2": "ASIA 192.45",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "ASAHI NET"
+        },
+        "id": "0614508",
+        "key": "220.146.253.251:1439"
+    },
+    {
         "hostname": "VPN893657782.OPENGW.NET",
         "ip": "14.36.100.51",
         "port": 995,
@@ -2254,74 +2730,102 @@
         "key": "14.36.100.51:995"
     },
     {
-        "hostname": "VPN227553496.OPENGW.NET",
-        "ip": "203.179.206.192",
-        "port": 1905,
-        "info": "9 SESSIONS 497.49",
-        "info2": "ASIA 497.49",
-        "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "QTNET INC"
-        },
-        "id": "0611595",
-        "key": "203.179.206.192:1905"
-    },
-    {
         "hostname": "VPN970843937.OPENGW.NET",
         "ip": "92.96.95.143",
         "port": 1624,
-        "info": "6 SESSIONS 121.95",
+        "info": "8 SESSIONS 121.95",
         "info2": "ASIA 121.95",
         "location": {
             "country": "UNITED ARAB EMIRATES",
             "short": "AE ",
             "name": "EMIRATES TELECOMMUNIC..."
         },
-        "id": "0610128",
+        "id": "0611366",
         "key": "92.96.95.143:1624"
+    },
+    {
+        "hostname": "VPN273004266.OPENGW.NET",
+        "ip": "121.166.213.196",
+        "port": 995,
+        "info": "9 SESSIONS 199.08",
+        "info2": "ASIA 199.08",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0609932",
+        "key": "121.166.213.196:995"
     },
     {
         "hostname": "VPN939314271.OPENGW.NET",
         "ip": "60.140.165.217",
         "port": 1241,
-        "info": "7 SESSIONS 58.01",
+        "info": "11 SESSIONS 58.01",
         "info2": "ASIA 58.01",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0606058",
+        "id": "0608501",
         "key": "60.140.165.217:1241"
     },
     {
-        "hostname": "VPN230479057.OPENGW.NET",
-        "ip": "59.129.219.75",
-        "port": 1556,
-        "info": "6 SESSIONS 966.67",
-        "info2": "ASIA 966.67",
+        "hostname": "VPN648538259.OPENGW.NET",
+        "ip": "89.147.101.10",
+        "port": 995,
+        "info": "0 SESSIONS 84.23",
+        "info2": "ASIA 84.23",
         "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "KDDI CORPORATION"
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "PACKETHUB SA"
         },
-        "id": "0605817",
-        "key": "59.129.219.75:1556"
+        "id": "0607623",
+        "key": "89.147.101.10:995"
     },
     {
-        "hostname": "VPN812446318.OPENGW.NET",
-        "ip": "106.155.160.141",
-        "port": 1308,
-        "info": "18 SESSIONS 600.59",
-        "info2": "ASIA 600.59",
+        "hostname": "VPN328146635.OPENGW.NET",
+        "ip": "222.104.243.28",
+        "port": 995,
+        "info": "4 SESSIONS 157.41",
+        "info2": "ASIA 157.41",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0607341",
+        "key": "222.104.243.28:995"
+    },
+    {
+        "hostname": "VPN468282901.OPENGW.NET",
+        "ip": "59.28.8.40",
+        "port": 1508,
+        "info": "28 SESSIONS 285.23",
+        "info2": "ASIA 285.23",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0607305",
+        "key": "59.28.8.40:1508"
+    },
+    {
+        "hostname": "VPN873482881.OPENGW.NET",
+        "ip": "220.146.171.200",
+        "port": 1750,
+        "info": "0 SESSIONS 94.23",
+        "info2": "ASIA 94.23",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
-            "name": "KDDI CORPORATION"
+            "name": "ASAHI NET"
         },
-        "id": "0605338",
-        "key": "106.155.160.141:1308"
+        "id": "0606518",
+        "key": "220.146.171.200:1750"
     },
     {
         "hostname": "VPN518772026.OPENGW.NET",
@@ -2338,18 +2842,46 @@
         "key": "61.72.94.167:995"
     },
     {
-        "hostname": "VPN468282901.OPENGW.NET",
-        "ip": "59.28.8.40",
-        "port": 1508,
-        "info": "23 SESSIONS 285.23",
-        "info2": "ASIA 285.23",
+        "hostname": "VPN889052586.OPENGW.NET",
+        "ip": "210.204.192.124",
+        "port": 995,
+        "info": "32 SESSIONS 104.26",
+        "info2": "ASIA 104.26",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0604029",
-        "key": "59.28.8.40:1508"
+        "id": "0604708",
+        "key": "210.204.192.124:995"
+    },
+    {
+        "hostname": "VPN273195293.OPENGW.NET",
+        "ip": "95.55.46.70",
+        "port": 1852,
+        "info": "6 SESSIONS 186.25",
+        "info2": "EUROPE 186.25",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
+        },
+        "id": "0604100",
+        "key": "95.55.46.70:1852"
+    },
+    {
+        "hostname": "VPN587057222.OPENGW.NET",
+        "ip": "133.218.175.140",
+        "port": 1817,
+        "info": "1 SESSIONS 151.42",
+        "info2": "ASIA 151.42",
+        "location": {
+            "country": "JAPAN",
+            "short": "JP ",
+            "name": "INTERNET INITIATIVE J..."
+        },
+        "id": "0603078",
+        "key": "133.218.175.140:1817"
     },
     {
         "hostname": "VPN324746693.OPENGW.NET",
@@ -2364,34 +2896,6 @@
         },
         "id": "0602823",
         "key": "119.196.49.82:1700"
-    },
-    {
-        "hostname": "VPN870290718.OPENGW.NET",
-        "ip": "211.244.223.85",
-        "port": 1506,
-        "info": "12 SESSIONS 80.20",
-        "info2": "ASIA 80.20",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
-        },
-        "id": "0602077",
-        "key": "211.244.223.85:1506"
-    },
-    {
-        "hostname": "VPN273195293.OPENGW.NET",
-        "ip": "95.55.46.70",
-        "port": 1852,
-        "info": "2 SESSIONS 186.25",
-        "info2": "EUROPE 186.25",
-        "location": {
-            "country": "RUSSIA",
-            "short": "RU ",
-            "name": "ROSTELECOM"
-        },
-        "id": "0601655",
-        "key": "95.55.46.70:1852"
     },
     {
         "hostname": "VPN511281664.OPENGW.NET",
@@ -2425,42 +2929,70 @@
         "hostname": "VPN233023105.OPENGW.NET",
         "ip": "45.14.24.203",
         "port": 1858,
-        "info": "4 SESSIONS 104.18",
+        "info": "5 SESSIONS 104.18",
         "info2": "EUROPE 104.18",
         "location": {
             "country": "UKRAINE",
             "short": "UA ",
             "name": "EVEREST TV AND RADIO ..."
         },
-        "id": "0600149",
+        "id": "0600757",
         "key": "45.14.24.203:1858"
+    },
+    {
+        "hostname": "VPN627341210.OPENGW.NET",
+        "ip": "118.47.29.224",
+        "port": 995,
+        "info": "1 SESSIONS 60.89",
+        "info2": "ASIA 60.89",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0599999",
+        "key": "118.47.29.224:995"
     },
     {
         "hostname": "VPN591193682.OPENGW.NET",
         "ip": "59.29.254.93",
         "port": 1243,
-        "info": "50 SESSIONS 53.18",
+        "info": "49 SESSIONS 53.18",
         "info2": "ASIA 53.18",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0600092",
+        "id": "0599447",
         "key": "59.29.254.93:1243"
+    },
+    {
+        "hostname": "VPN676594305.OPENGW.NET",
+        "ip": "58.232.223.120",
+        "port": 1418,
+        "info": "11 SESSIONS 74.24",
+        "info2": "ASIA 74.24",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0598406",
+        "key": "58.232.223.120:1418"
     },
     {
         "hostname": "VPN811395385.OPENGW.NET",
         "ip": "182.170.170.150",
         "port": 1841,
-        "info": "6 SESSIONS 668.02",
+        "info": "7 SESSIONS 668.02",
         "info2": "ASIA 668.02",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SONY NETWORK COMMUNIC..."
         },
-        "id": "0597715",
+        "id": "0598321",
         "key": "182.170.170.150:1841"
     },
     {
@@ -2478,18 +3010,60 @@
         "key": "111.105.118.38:1495"
     },
     {
+        "hostname": "VPN884402699.OPENGW.NET",
+        "ip": "115.21.228.6",
+        "port": 995,
+        "info": "15 SESSIONS 106.44",
+        "info2": "ASIA 106.44",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0595770",
+        "key": "115.21.228.6:995"
+    },
+    {
+        "hostname": "VPN870290718.OPENGW.NET",
+        "ip": "211.244.223.85",
+        "port": 1506,
+        "info": "1 SESSIONS 80.20",
+        "info2": "ASIA 80.20",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0594968",
+        "key": "211.244.223.85:1506"
+    },
+    {
         "hostname": "VPN922041785.OPENGW.NET",
         "ip": "121.189.231.253",
         "port": 1435,
-        "info": "12 SESSIONS 66.80",
+        "info": "11 SESSIONS 66.80",
         "info2": "ASIA 66.80",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0595137",
+        "id": "0594485",
         "key": "121.189.231.253:1435"
+    },
+    {
+        "hostname": "VPN194702529.OPENGW.NET",
+        "ip": "220.125.51.211",
+        "port": 1457,
+        "info": "14 SESSIONS 99.64",
+        "info2": "ASIA 99.64",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0594219",
+        "key": "220.125.51.211:1457"
     },
     {
         "hostname": "VPN939533366.OPENGW.NET",
@@ -2520,6 +3094,20 @@
         "key": "121.136.107.14:995"
     },
     {
+        "hostname": "VPN542215610.OPENGW.NET",
+        "ip": "220.120.80.173",
+        "port": 1829,
+        "info": "16 SESSIONS 306.58",
+        "info2": "ASIA 306.58",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0593524",
+        "key": "220.120.80.173:1829"
+    },
+    {
         "hostname": "VPN220815888.OPENGW.NET",
         "ip": "121.172.0.143",
         "port": 995,
@@ -2534,32 +3122,32 @@
         "key": "121.172.0.143:995"
     },
     {
-        "hostname": "VPN884402699.OPENGW.NET",
-        "ip": "115.21.228.6",
-        "port": 995,
-        "info": "10 SESSIONS 106.44",
-        "info2": "ASIA 106.44",
+        "hostname": "VPN842317346.OPENGW.NET",
+        "ip": "59.21.241.135",
+        "port": 1795,
+        "info": "5 SESSIONS 242.72",
+        "info2": "ASIA 242.72",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0592661",
-        "key": "115.21.228.6:995"
+        "id": "0589653",
+        "key": "59.21.241.135:1795"
     },
     {
-        "hostname": "VPN194702529.OPENGW.NET",
-        "ip": "220.125.51.211",
-        "port": 1457,
-        "info": "8 SESSIONS 99.64",
-        "info2": "ASIA 99.64",
+        "hostname": "VPN309258753.OPENGW.NET",
+        "ip": "220.79.133.242",
+        "port": 1779,
+        "info": "14 SESSIONS 178.67",
+        "info2": "ASIA 178.67",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0590327",
-        "key": "220.125.51.211:1457"
+        "id": "0589443",
+        "key": "220.79.133.242:1779"
     },
     {
         "hostname": "VPN866445751.OPENGW.NET",
@@ -2576,6 +3164,20 @@
         "key": "50.158.189.20:1298"
     },
     {
+        "hostname": "VPN271825714.OPENGW.NET",
+        "ip": "121.145.162.146",
+        "port": 995,
+        "info": "9 SESSIONS 179.72",
+        "info2": "ASIA 179.72",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0588176",
+        "key": "121.145.162.146:995"
+    },
+    {
         "hostname": "VPN333893252.OPENGW.NET",
         "ip": "183.100.169.98",
         "port": 1744,
@@ -2588,6 +3190,34 @@
         },
         "id": "0587646",
         "key": "183.100.169.98:1744"
+    },
+    {
+        "hostname": "VPN306602413.OPENGW.NET",
+        "ip": "218.154.111.153",
+        "port": 995,
+        "info": "5 SESSIONS 274.69",
+        "info2": "ASIA 274.69",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0587333",
+        "key": "218.154.111.153:995"
+    },
+    {
+        "hostname": "VPN416070287.OPENGW.NET",
+        "ip": "222.104.184.6",
+        "port": 995,
+        "info": "0 SESSIONS 257.47",
+        "info2": "ASIA 257.47",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0586887",
+        "key": "222.104.184.6:995"
     },
     {
         "hostname": "VPN202156851.OPENGW.NET",
@@ -2604,6 +3234,34 @@
         "key": "222.114.112.189:1635"
     },
     {
+        "hostname": "VPN161549587.OPENGW.NET",
+        "ip": "59.27.147.66",
+        "port": 1771,
+        "info": "14 SESSIONS 146.92",
+        "info2": "ASIA 146.92",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0585632",
+        "key": "59.27.147.66:1771"
+    },
+    {
+        "hostname": "VPN997435699.OPENGW.NET",
+        "ip": "14.56.34.111",
+        "port": 995,
+        "info": "3 SESSIONS 501.61",
+        "info2": "ASIA 501.61",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0585339",
+        "key": "14.56.34.111:995"
+    },
+    {
         "hostname": "VPN574608849.OPENGW.NET",
         "ip": "220.79.235.251",
         "port": 1870,
@@ -2616,20 +3274,6 @@
         },
         "id": "0582921",
         "key": "220.79.235.251:1870"
-    },
-    {
-        "hostname": "VPN161549587.OPENGW.NET",
-        "ip": "59.27.147.66",
-        "port": 1771,
-        "info": "9 SESSIONS 146.92",
-        "info2": "ASIA 146.92",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0582454",
-        "key": "59.27.147.66:1771"
     },
     {
         "hostname": "VPN338997361.OPENGW.NET",
@@ -2646,6 +3290,20 @@
         "key": "175.210.155.24:995"
     },
     {
+        "hostname": "VPN336574667.OPENGW.NET",
+        "ip": "118.71.189.167",
+        "port": 1580,
+        "info": "7 SESSIONS 133.88",
+        "info2": "ASIA 133.88",
+        "location": {
+            "country": "VIETNAM",
+            "short": "VN ",
+            "name": "FPT TELECOM COMPANY"
+        },
+        "id": "0581868",
+        "key": "118.71.189.167:1580"
+    },
+    {
         "hostname": "VPN859307486.OPENGW.NET",
         "ip": "112.172.178.22",
         "port": 1748,
@@ -2660,60 +3318,102 @@
         "key": "112.172.178.22:1748"
     },
     {
-        "hostname": "VPN336574667.OPENGW.NET",
-        "ip": "118.71.189.167",
-        "port": 1580,
-        "info": "6 SESSIONS 133.88",
-        "info2": "ASIA 133.88",
+        "hostname": "VPN822757078.OPENGW.NET",
+        "ip": "211.210.59.8",
+        "port": 1924,
+        "info": "17 SESSIONS 84.41",
+        "info2": "ASIA 84.41",
         "location": {
-            "country": "VIETNAM",
-            "short": "VN ",
-            "name": "FPT TELECOM COMPANY"
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
         },
-        "id": "0581209",
-        "key": "118.71.189.167:1580"
+        "id": "0581415",
+        "key": "211.210.59.8:1924"
     },
     {
         "hostname": "VPN591932658.OPENGW.NET",
         "ip": "60.71.7.107",
         "port": 1484,
-        "info": "9 SESSIONS 27.54",
+        "info": "10 SESSIONS 27.54",
         "info2": "ASIA 27.54",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "SOFTBANK CORP"
         },
-        "id": "0580751",
+        "id": "0581373",
         "key": "60.71.7.107:1484"
     },
     {
         "hostname": "VPN738172193.OPENGW.NET",
         "ip": "210.178.65.32",
         "port": 995,
-        "info": "20 SESSIONS 60.97",
+        "info": "22 SESSIONS 60.97",
         "info2": "ASIA 60.97",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0579712",
+        "id": "0580957",
         "key": "210.178.65.32:995"
+    },
+    {
+        "hostname": "VPN154444582.OPENGW.NET",
+        "ip": "221.146.152.13",
+        "port": 995,
+        "info": "0 SESSIONS 186.56",
+        "info2": "ASIA 186.56",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0579512",
+        "key": "221.146.152.13:995"
     },
     {
         "hostname": "VPN716109838.OPENGW.NET",
         "ip": "119.205.75.153",
         "port": 995,
-        "info": "5 SESSIONS 534.91",
+        "info": "6 SESSIONS 534.91",
         "info2": "ASIA 534.91",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0578470",
+        "id": "0579120",
         "key": "119.205.75.153:995"
+    },
+    {
+        "hostname": "VPN159239587.OPENGW.NET",
+        "ip": "14.224.247.67",
+        "port": 1821,
+        "info": "11 SESSIONS 29.53",
+        "info2": "ASIA 29.53",
+        "location": {
+            "country": "VIETNAM",
+            "short": "VN ",
+            "name": "VNPT CORP"
+        },
+        "id": "0578661",
+        "key": "14.224.247.67:1821"
+    },
+    {
+        "hostname": "VPN698335685.OPENGW.NET",
+        "ip": "221.153.109.66",
+        "port": 1603,
+        "info": "3 SESSIONS 301.79",
+        "info2": "ASIA 301.79",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0577963",
+        "key": "221.153.109.66:1603"
     },
     {
         "hostname": "VPN307229125.OPENGW.NET",
@@ -2728,6 +3428,34 @@
         },
         "id": "0575296",
         "key": "121.162.210.153:1266"
+    },
+    {
+        "hostname": "VPN389399582.OPENGW.NET",
+        "ip": "121.130.139.48",
+        "port": 995,
+        "info": "8 SESSIONS 148.89",
+        "info2": "ASIA 148.89",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0574292",
+        "key": "121.130.139.48:995"
+    },
+    {
+        "hostname": "VPN866428653.OPENGW.NET",
+        "ip": "119.201.230.87",
+        "port": 995,
+        "info": "14 SESSIONS 211.59",
+        "info2": "ASIA 211.59",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0574155",
+        "key": "119.201.230.87:995"
     },
     {
         "hostname": "VPN223131098.OPENGW.NET",
@@ -2761,43 +3489,29 @@
         "hostname": "VPN879466818.OPENGW.NET",
         "ip": "73.116.54.111",
         "port": 1962,
-        "info": "42 SESSIONS AMERICA 109.79",
+        "info": "43 SESSIONS AMERICA 109.79",
         "info2": "NORTH AMERICA 109.79",
         "location": {
             "country": "UNITED STATES",
             "short": "US ",
             "name": "COMCAST 7922"
         },
-        "id": "0570385",
+        "id": "0570866",
         "key": "73.116.54.111:1962"
     },
     {
         "hostname": "VPN135015576.OPENGW.NET",
         "ip": "42.119.177.107",
         "port": 1721,
-        "info": "26 SESSIONS 227.75",
+        "info": "27 SESSIONS 227.75",
         "info2": "ASIA 227.75",
         "location": {
             "country": "VIETNAM",
             "short": "VN ",
             "name": "FPT TELECOM COMPANY"
         },
-        "id": "0569032",
+        "id": "0569652",
         "key": "42.119.177.107:1721"
-    },
-    {
-        "hostname": "VPN389399582.OPENGW.NET",
-        "ip": "121.130.139.48",
-        "port": 995,
-        "info": "0 SESSIONS 148.89",
-        "info2": "ASIA 148.89",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0569030",
-        "key": "121.130.139.48:995"
     },
     {
         "hostname": "VPN966869813.OPENGW.NET",
@@ -2814,46 +3528,32 @@
         "key": "61.245.188.65:1297"
     },
     {
-        "hostname": "VPN866428653.OPENGW.NET",
-        "ip": "119.201.230.87",
-        "port": 995,
-        "info": "4 SESSIONS 211.59",
-        "info2": "ASIA 211.59",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0568144",
-        "key": "119.201.230.87:995"
-    },
-    {
-        "hostname": "VPN931937403.OPENGW.NET",
-        "ip": "118.220.131.21",
-        "port": 1720,
-        "info": "5 SESSIONS 347.10",
-        "info2": "ASIA 347.10",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
-        },
-        "id": "0568027",
-        "key": "118.220.131.21:1720"
-    },
-    {
         "hostname": "VPN727392058.OPENGW.NET",
         "ip": "175.192.42.117",
         "port": 995,
-        "info": "8 SESSIONS 342.04",
+        "info": "9 SESSIONS 342.04",
         "info2": "ASIA 342.04",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0566581",
+        "id": "0567232",
         "key": "175.192.42.117:995"
+    },
+    {
+        "hostname": "VPN931937403.OPENGW.NET",
+        "ip": "118.220.131.21",
+        "port": 1720,
+        "info": "11 SESSIONS 347.10",
+        "info2": "ASIA 347.10",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0566617",
+        "key": "118.220.131.21:1720"
     },
     {
         "hostname": "VPN268550435.OPENGW.NET",
@@ -2870,6 +3570,20 @@
         "key": "218.38.179.117:995"
     },
     {
+        "hostname": "VPN783279386.OPENGW.NET",
+        "ip": "124.5.149.179",
+        "port": 1264,
+        "info": "2 SESSIONS 96.49",
+        "info2": "ASIA 96.49",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "DLIVE"
+        },
+        "id": "0565415",
+        "key": "124.5.149.179:1264"
+    },
+    {
         "hostname": "VPN759926803.OPENGW.NET",
         "ip": "59.17.107.168",
         "port": 1806,
@@ -2882,6 +3596,20 @@
         },
         "id": "0564112",
         "key": "59.17.107.168:1806"
+    },
+    {
+        "hostname": "VPN402677371.OPENGW.NET",
+        "ip": "221.159.55.68",
+        "port": 1767,
+        "info": "4 SESSIONS 78.04",
+        "info2": "ASIA 78.04",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0563801",
+        "key": "221.159.55.68:1767"
     },
     {
         "hostname": "VPN845869695.OPENGW.NET",
@@ -2940,6 +3668,62 @@
         "key": "118.35.30.218:1588"
     },
     {
+        "hostname": "VPN802747917.OPENGW.NET",
+        "ip": "14.32.44.147",
+        "port": 1195,
+        "info": "6 SESSIONS 59.64",
+        "info2": "ASIA 59.64",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0562052",
+        "key": "14.32.44.147:1195"
+    },
+    {
+        "hostname": "VPN134317240.OPENGW.NET",
+        "ip": "220.93.248.217",
+        "port": 1691,
+        "info": "1 SESSIONS 76.32",
+        "info2": "ASIA 76.32",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0561366",
+        "key": "220.93.248.217:1691"
+    },
+    {
+        "hostname": "VPN635792406.OPENGW.NET",
+        "ip": "122.39.18.185",
+        "port": 995,
+        "info": "6 SESSIONS 346.42",
+        "info2": "ASIA 346.42",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "LG POWERCOMM"
+        },
+        "id": "0560924",
+        "key": "122.39.18.185:995"
+    },
+    {
+        "hostname": "VPN490011664.OPENGW.NET",
+        "ip": "121.168.227.79",
+        "port": 1924,
+        "info": "4 SESSIONS 85.74",
+        "info2": "ASIA 85.74",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0560685",
+        "key": "121.168.227.79:1924"
+    },
+    {
         "hostname": "VPN393266706.OPENGW.NET",
         "ip": "115.22.161.215",
         "port": 995,
@@ -2954,18 +3738,18 @@
         "key": "115.22.161.215:995"
     },
     {
-        "hostname": "VPN926829834.OPENGW.NET",
-        "ip": "218.235.107.230",
-        "port": 1884,
-        "info": "10 SESSIONS 699.69",
-        "info2": "ASIA 699.69",
+        "hostname": "VPN950899261.OPENGW.NET",
+        "ip": "59.29.81.169",
+        "port": 995,
+        "info": "10 SESSIONS 175.15",
+        "info2": "ASIA 175.15",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
+            "name": "KOREA TELECOM"
         },
-        "id": "0557992",
-        "key": "218.235.107.230:1884"
+        "id": "0557714",
+        "key": "59.29.81.169:995"
     },
     {
         "hostname": "VPN320959092.OPENGW.NET",
@@ -2982,18 +3766,32 @@
         "key": "220.80.30.227:995"
     },
     {
-        "hostname": "VPN318908956.OPENGW.NET",
-        "ip": "121.137.174.5",
-        "port": 1792,
-        "info": "15 SESSIONS 18.93",
-        "info2": "ASIA 18.93",
+        "hostname": "VPN483703015.OPENGW.NET",
+        "ip": "1.241.203.45",
+        "port": 995,
+        "info": "3 SESSIONS 361.38",
+        "info2": "ASIA 361.38",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0557099",
+        "key": "1.241.203.45:995"
+    },
+    {
+        "hostname": "VPN386250648.OPENGW.NET",
+        "ip": "14.37.7.175",
+        "port": 995,
+        "info": "11 SESSIONS 171.98",
+        "info2": "ASIA 171.98",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0555634",
-        "key": "121.137.174.5:1792"
+        "id": "0556015",
+        "key": "14.37.7.175:995"
     },
     {
         "hostname": "VPN451162770.OPENGW.NET",
@@ -3024,6 +3822,20 @@
         "key": "123.108.167.108:995"
     },
     {
+        "hostname": "VPN646117522.OPENGW.NET",
+        "ip": "222.114.174.132",
+        "port": 995,
+        "info": "5 SESSIONS 270.60",
+        "info2": "ASIA 270.60",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0554536",
+        "key": "222.114.174.132:995"
+    },
+    {
         "hostname": "VPN676301195.OPENGW.NET",
         "ip": "61.80.42.8",
         "port": 995,
@@ -3038,18 +3850,32 @@
         "key": "61.80.42.8:995"
     },
     {
-        "hostname": "VPN483703015.OPENGW.NET",
-        "ip": "1.241.203.45",
+        "hostname": "VPN957423984.OPENGW.NET",
+        "ip": "14.38.150.186",
         "port": 995,
-        "info": "5 SESSIONS 374.86",
-        "info2": "ASIA 374.86",
+        "info": "4 SESSIONS 174.74",
+        "info2": "ASIA 174.74",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
+            "name": "KOREA TELECOM"
         },
-        "id": "0553869",
-        "key": "1.241.203.45:995"
+        "id": "0552787",
+        "key": "14.38.150.186:995"
+    },
+    {
+        "hostname": "VPN538532385.OPENGW.NET",
+        "ip": "220.94.255.219",
+        "port": 995,
+        "info": "13 SESSIONS 88.84",
+        "info2": "ASIA 88.84",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0552655",
+        "key": "220.94.255.219:995"
     },
     {
         "hostname": "VPN235629616.OPENGW.NET",
@@ -3064,20 +3890,6 @@
         },
         "id": "0551624",
         "key": "118.42.210.254:995"
-    },
-    {
-        "hostname": "VPN538532385.OPENGW.NET",
-        "ip": "220.94.255.219",
-        "port": 995,
-        "info": "11 SESSIONS 88.84",
-        "info2": "ASIA 88.84",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0551434",
-        "key": "220.94.255.219:995"
     },
     {
         "hostname": "VPN245217894.OPENGW.NET",
@@ -3097,15 +3909,57 @@
         "hostname": "VPN595193238.OPENGW.NET",
         "ip": "110.14.252.60",
         "port": 1419,
-        "info": "5 SESSIONS 78.23",
+        "info": "8 SESSIONS 78.23",
         "info2": "ASIA 78.23",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "SK BROADBAND CO LTD"
         },
-        "id": "0548494",
+        "id": "0550447",
         "key": "110.14.252.60:1419"
+    },
+    {
+        "hostname": "VPN318908956.OPENGW.NET",
+        "ip": "121.137.174.5",
+        "port": 1792,
+        "info": "15 SESSIONS 18.93",
+        "info2": "ASIA 18.93",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0550036",
+        "key": "121.137.174.5:1792"
+    },
+    {
+        "hostname": "VPN781752500.OPENGW.NET",
+        "ip": "219.241.112.236",
+        "port": 995,
+        "info": "4 SESSIONS 329.22",
+        "info2": "ASIA 329.22",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0548986",
+        "key": "219.241.112.236:995"
+    },
+    {
+        "hostname": "VPN887780715.OPENGW.NET",
+        "ip": "211.44.96.21",
+        "port": 1628,
+        "info": "11 SESSIONS 36.46",
+        "info2": "ASIA 36.46",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0548895",
+        "key": "211.44.96.21:1628"
     },
     {
         "hostname": "VPN112346613.OPENGW.NET",
@@ -3120,20 +3974,6 @@
         },
         "id": "0547627",
         "key": "211.38.66.82:995"
-    },
-    {
-        "hostname": "VPN887780715.OPENGW.NET",
-        "ip": "211.44.96.21",
-        "port": 1628,
-        "info": "9 SESSIONS 36.46",
-        "info2": "ASIA 36.46",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
-        },
-        "id": "0547586",
-        "key": "211.44.96.21:1628"
     },
     {
         "hostname": "VPN639276652.OPENGW.NET",
@@ -3164,6 +4004,20 @@
         "key": "121.129.157.102:1878"
     },
     {
+        "hostname": "VPN549089690.OPENGW.NET",
+        "ip": "110.11.8.13",
+        "port": 1880,
+        "info": "20 SESSIONS 73.52",
+        "info2": "ASIA 73.52",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0544430",
+        "key": "110.11.8.13:1880"
+    },
+    {
         "hostname": "VPN500645444.OPENGW.NET",
         "ip": "121.189.172.240",
         "port": 995,
@@ -3176,6 +4030,20 @@
         },
         "id": "0544148",
         "key": "121.189.172.240:995"
+    },
+    {
+        "hostname": "VPN491060790.OPENGW.NET",
+        "ip": "14.177.204.85",
+        "port": 1580,
+        "info": "1 SESSIONS 210.91",
+        "info2": "ASIA 210.91",
+        "location": {
+            "country": "VIETNAM",
+            "short": "VN ",
+            "name": "VNPT CORP"
+        },
+        "id": "0543757",
+        "key": "14.177.204.85:1580"
     },
     {
         "hostname": "VPN548416959.OPENGW.NET",
@@ -3220,18 +4088,18 @@
         "key": "175.118.180.24:1539"
     },
     {
-        "hostname": "VPN661203165.OPENGW.NET",
-        "ip": "125.186.91.205",
-        "port": 995,
-        "info": "5 SESSIONS 277.68",
-        "info2": "ASIA 277.68",
+        "hostname": "VPN289921249.OPENGW.NET",
+        "ip": "70.162.145.109",
+        "port": 1374,
+        "info": "7 SESSIONS AMERICA 48.63",
+        "info2": "NORTH AMERICA 48.63",
         "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "LG POWERCOMM"
+            "country": "UNITED STATES",
+            "short": "US ",
+            "name": "ASN CXA ALL CCI 22773..."
         },
-        "id": "0540453",
-        "key": "125.186.91.205:995"
+        "id": "0541379",
+        "key": "70.162.145.109:1374"
     },
     {
         "hostname": "VPN800416880.OPENGW.NET",
@@ -3248,6 +4116,76 @@
         "key": "222.99.95.235:1665"
     },
     {
+        "hostname": "VPN759430340.OPENGW.NET",
+        "ip": "211.211.233.93",
+        "port": 1804,
+        "info": "3 SESSIONS 74.21",
+        "info2": "ASIA 74.21",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0538446",
+        "key": "211.211.233.93:1804"
+    },
+    {
+        "hostname": "VPN661203165.OPENGW.NET",
+        "ip": "125.186.91.205",
+        "port": 995,
+        "info": "1 SESSIONS 277.68",
+        "info2": "ASIA 277.68",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "LG POWERCOMM"
+        },
+        "id": "0537837",
+        "key": "125.186.91.205:995"
+    },
+    {
+        "hostname": "VPN322885923.OPENGW.NET",
+        "ip": "175.117.84.105",
+        "port": 1382,
+        "info": "6 SESSIONS 96.41",
+        "info2": "ASIA 96.41",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0536611",
+        "key": "175.117.84.105:1382"
+    },
+    {
+        "hostname": "VPN468354624.OPENGW.NET",
+        "ip": "211.109.27.143",
+        "port": 995,
+        "info": "0 SESSIONS 464.27",
+        "info2": "ASIA 464.27",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0535372",
+        "key": "211.109.27.143:995"
+    },
+    {
+        "hostname": "VPN534585583.OPENGW.NET",
+        "ip": "175.198.166.247",
+        "port": 995,
+        "info": "4 SESSIONS 104.50",
+        "info2": "ASIA 104.50",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0535058",
+        "key": "175.198.166.247:995"
+    },
+    {
         "hostname": "VPN434454756.OPENGW.NET",
         "ip": "119.206.10.84",
         "port": 1718,
@@ -3260,6 +4198,20 @@
         },
         "id": "0533248",
         "key": "119.206.10.84:1718"
+    },
+    {
+        "hostname": "VPN429908594.OPENGW.NET",
+        "ip": "183.108.55.241",
+        "port": 995,
+        "info": "9 SESSIONS 35.06",
+        "info2": "ASIA 35.06",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0529291",
+        "key": "183.108.55.241:995"
     },
     {
         "hostname": "VPN941223374.OPENGW.NET",
@@ -3276,6 +4228,76 @@
         "key": "125.177.198.10:1861"
     },
     {
+        "hostname": "VPN544565854.OPENGW.NET",
+        "ip": "125.242.161.80",
+        "port": 1529,
+        "info": "6 SESSIONS 203.13",
+        "info2": "ASIA 203.13",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "LG POWERCOMM"
+        },
+        "id": "0527527",
+        "key": "125.242.161.80:1529"
+    },
+    {
+        "hostname": "VPN371397614.OPENGW.NET",
+        "ip": "221.138.58.147",
+        "port": 1347,
+        "info": "3 SESSIONS 96.76",
+        "info2": "ASIA 96.76",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0527326",
+        "key": "221.138.58.147:1347"
+    },
+    {
+        "hostname": "VPN602098046.OPENGW.NET",
+        "ip": "211.206.72.8",
+        "port": 995,
+        "info": "24 SESSIONS 332.79",
+        "info2": "ASIA 332.79",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "SK BROADBAND CO LTD"
+        },
+        "id": "0526909",
+        "key": "211.206.72.8:995"
+    },
+    {
+        "hostname": "VPN229700248.OPENGW.NET",
+        "ip": "118.176.76.34",
+        "port": 1523,
+        "info": "22 SESSIONS 90.50",
+        "info2": "ASIA 90.50",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "DLIVE"
+        },
+        "id": "0526711",
+        "key": "118.176.76.34:1523"
+    },
+    {
+        "hostname": "VPN686381138.OPENGW.NET",
+        "ip": "14.34.186.41",
+        "port": 1308,
+        "info": "5 SESSIONS 65.12",
+        "info2": "ASIA 65.12",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "KOREA TELECOM"
+        },
+        "id": "0525479",
+        "key": "14.34.186.41:1308"
+    },
+    {
         "hostname": "VPN600557931.OPENGW.NET",
         "ip": "220.117.87.99",
         "port": 995,
@@ -3290,32 +4312,18 @@
         "key": "220.117.87.99:995"
     },
     {
-        "hostname": "VPN669282315.OPENGW.NET",
-        "ip": "110.13.50.2",
-        "port": 995,
-        "info": "9 SESSIONS 219.38",
-        "info2": "ASIA 219.38",
+        "hostname": "VPN589223305.OPENGW.NET",
+        "ip": "211.245.182.8",
+        "port": 1617,
+        "info": "5 SESSIONS 480.75",
+        "info2": "ASIA 480.75",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "SK BROADBAND CO LTD"
         },
-        "id": "0524852",
-        "key": "110.13.50.2:995"
-    },
-    {
-        "hostname": "VPN686381138.OPENGW.NET",
-        "ip": "14.34.186.41",
-        "port": 1308,
-        "info": "3 SESSIONS 65.12",
-        "info2": "ASIA 65.12",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "KOREA TELECOM"
-        },
-        "id": "0524274",
-        "key": "14.34.186.41:1308"
+        "id": "0524433",
+        "key": "211.245.182.8:1617"
     },
     {
         "hostname": "VPN835280998.OPENGW.NET",
@@ -3332,31 +4340,17 @@
         "key": "1.176.241.219:995"
     },
     {
-        "hostname": "VPN602098046.OPENGW.NET",
-        "ip": "211.206.72.8",
-        "port": 995,
-        "info": "14 SESSIONS 332.79",
-        "info2": "ASIA 332.79",
-        "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "SK BROADBAND CO LTD"
-        },
-        "id": "0520686",
-        "key": "211.206.72.8:995"
-    },
-    {
         "hostname": "VPN817899124.OPENGW.NET",
         "ip": "42.82.181.101",
         "port": 1961,
-        "info": "8 SESSIONS 36.07",
+        "info": "13 SESSIONS 36.07",
         "info2": "ASIA 36.07",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "LG HELLOVISION CORP"
         },
-        "id": "0520479",
+        "id": "0523616",
         "key": "42.82.181.101:1961"
     },
     {
@@ -3374,46 +4368,46 @@
         "key": "178.46.154.112:1417"
     },
     {
-        "hostname": "VPN498198299.OPENGW.NET",
-        "ip": "125.202.44.37",
-        "port": 1670,
-        "info": "12 SESSIONS 15.16",
-        "info2": "ASIA 15.16",
+        "hostname": "VPN587840355.OPENGW.NET",
+        "ip": "115.41.120.164",
+        "port": 1422,
+        "info": "4 SESSIONS 635.15",
+        "info2": "ASIA 635.15",
         "location": {
-            "country": "JAPAN",
-            "short": "JP ",
-            "name": "NTT COMMUNICATIONS CO..."
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "LG HELLOVISION CORP"
         },
-        "id": "0516860",
-        "key": "125.202.44.37:1670"
-    },
-    {
-        "hostname": "VPN649864867.OPENGW.NET",
-        "ip": "31.135.124.45",
-        "port": 1693,
-        "info": "1 SESSIONS 36.91",
-        "info2": "EUROPE 36.91",
-        "location": {
-            "country": "UKRAINE",
-            "short": "UA ",
-            "name": "LTD CYPHER"
-        },
-        "id": "0506561",
-        "key": "31.135.124.45:1693"
+        "id": "0509211",
+        "key": "115.41.120.164:1422"
     },
     {
         "hostname": "VPN492407376.OPENGW.NET",
         "ip": "49.173.141.24",
         "port": 995,
-        "info": "2 SESSIONS 823.07",
+        "info": "3 SESSIONS 823.07",
         "info2": "ASIA 823.07",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "LG POWERCOMM"
         },
-        "id": "0506501",
+        "id": "0507122",
         "key": "49.173.141.24:995"
+    },
+    {
+        "hostname": "VPN207089301.OPENGW.NET",
+        "ip": "109.191.4.95",
+        "port": 1626,
+        "info": "2 SESSIONS 89.28",
+        "info2": "EUROPE 89.28",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "INTERSVYAZ 2 JSC"
+        },
+        "id": "0506489",
+        "key": "109.191.4.95:1626"
     },
     {
         "hostname": "VPN569233439.OPENGW.NET",
@@ -3430,46 +4424,46 @@
         "key": "185.199.8.39:1318"
     },
     {
-        "hostname": "VPN207089301.OPENGW.NET",
-        "ip": "109.191.4.95",
-        "port": 1626,
-        "info": "1 SESSIONS 89.28",
-        "info2": "EUROPE 89.28",
-        "location": {
-            "country": "RUSSIA",
-            "short": "RU ",
-            "name": "INTERSVYAZ 2 JSC"
-        },
-        "id": "0505845",
-        "key": "109.191.4.95:1626"
-    },
-    {
         "hostname": "VPN742604007.OPENGW.NET",
         "ip": "39.119.124.179",
         "port": 1892,
-        "info": "7 SESSIONS 81.85",
+        "info": "8 SESSIONS 81.85",
         "info2": "ASIA 81.85",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "SK BROADBAND CO LTD"
         },
-        "id": "0503945",
+        "id": "0504568",
         "key": "39.119.124.179:1892"
     },
     {
         "hostname": "VPN916121979.OPENGW.NET",
         "ip": "182.21.57.1",
         "port": 1203,
-        "info": "15 SESSIONS 45.67",
+        "info": "18 SESSIONS 45.67",
         "info2": "ASIA 45.67",
         "location": {
             "country": "JAPAN",
             "short": "JP ",
             "name": "TOKAI COMMUNICATIONS ..."
         },
-        "id": "0499170",
+        "id": "0501065",
         "key": "182.21.57.1:1203"
+    },
+    {
+        "hostname": "VPN700218191.OPENGW.NET",
+        "ip": "112.218.21.132",
+        "port": 1643,
+        "info": "4 SESSIONS 83.24",
+        "info2": "ASIA 83.24",
+        "location": {
+            "country": "SOUTH KOREA",
+            "short": "KR ",
+            "name": "LG DACOM CORPORATION"
+        },
+        "id": "0499995",
+        "key": "112.218.21.132:1643"
     },
     {
         "hostname": "VPN669851144.OPENGW.NET",
@@ -3503,14 +4497,14 @@
         "hostname": "VPN499663835.OPENGW.NET",
         "ip": "95.154.66.176",
         "port": 1505,
-        "info": "1 SESSIONS 349.18",
+        "info": "2 SESSIONS 349.18",
         "info2": "EUROPE 349.18",
         "location": {
             "country": "RUSSIA",
             "short": "RU ",
             "name": "OCTOPUSNET LTD"
         },
-        "id": "0486240",
+        "id": "0486883",
         "key": "95.154.66.176:1505"
     },
     {
@@ -3542,32 +4536,60 @@
         "key": "125.191.185.204:995"
     },
     {
+        "hostname": "VPN889320825.OPENGW.NET",
+        "ip": "77.35.47.193",
+        "port": 1366,
+        "info": "32 SESSIONS 46.78",
+        "info2": "EUROPE 46.78",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
+        },
+        "id": "0476421",
+        "key": "77.35.47.193:1366"
+    },
+    {
         "hostname": "VPN314485664.OPENGW.NET",
         "ip": "121.165.160.24",
         "port": 1867,
-        "info": "5 SESSIONS 25.32",
+        "info": "6 SESSIONS 25.32",
         "info2": "ASIA 25.32",
         "location": {
             "country": "SOUTH KOREA",
             "short": "KR ",
             "name": "KOREA TELECOM"
         },
-        "id": "0473791",
+        "id": "0474415",
         "key": "121.165.160.24:1867"
     },
     {
-        "hostname": "VPN714788713.OPENGW.NET",
-        "ip": "113.131.166.192",
-        "port": 1466,
-        "info": "6 SESSIONS 81.46",
-        "info2": "ASIA 81.46",
+        "hostname": "VPN802683966.OPENGW.NET",
+        "ip": "82.162.59.155",
+        "port": 1807,
+        "info": "1 SESSIONS 90.62",
+        "info2": "EUROPE 90.62",
         "location": {
-            "country": "SOUTH KOREA",
-            "short": "KR ",
-            "name": "LG HELLOVISION CORP"
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
         },
-        "id": "0472496",
-        "key": "113.131.166.192:1466"
+        "id": "0469799",
+        "key": "82.162.59.155:1807"
+    },
+    {
+        "hostname": "VPN191124435.OPENGW.NET",
+        "ip": "82.162.17.179",
+        "port": 1294,
+        "info": "9 SESSIONS 90.01",
+        "info2": "EUROPE 90.01",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
+        },
+        "id": "0469340",
+        "key": "82.162.17.179:1294"
     },
     {
         "hostname": "VPN518744796.OPENGW.NET",
@@ -3584,6 +4606,34 @@
         "key": "85.15.93.179:1890"
     },
     {
+        "hostname": "VPN875965805.OPENGW.NET",
+        "ip": "46.48.223.67",
+        "port": 1381,
+        "info": "2 SESSIONS 52.91",
+        "info2": "EUROPE 52.91",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
+        },
+        "id": "0464205",
+        "key": "46.48.223.67:1381"
+    },
+    {
+        "hostname": "VPN195059684.OPENGW.NET",
+        "ip": "95.68.190.193",
+        "port": 1526,
+        "info": "0 SESSIONS 25.33",
+        "info2": "EUROPE 25.33",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
+        },
+        "id": "0462747",
+        "key": "95.68.190.193:1526"
+    },
+    {
         "hostname": "VPN998161058.OPENGW.NET",
         "ip": "211.107.35.231",
         "port": 1537,
@@ -3598,17 +4648,31 @@
         "key": "211.107.35.231:1537"
     },
     {
+        "hostname": "VPN675586825.OPENGW.NET",
+        "ip": "5.143.53.73",
+        "port": 1613,
+        "info": "0 SESSIONS 273.20",
+        "info2": "EUROPE 273.20",
+        "location": {
+            "country": "RUSSIA",
+            "short": "RU ",
+            "name": "ROSTELECOM"
+        },
+        "id": "0455485",
+        "key": "5.143.53.73:1613"
+    },
+    {
         "hostname": "VPN359519646.OPENGW.NET",
         "ip": "5.137.104.183",
         "port": 1613,
-        "info": "2 SESSIONS 25.70",
+        "info": "1 SESSIONS 25.70",
         "info2": "EUROPE 25.70",
         "location": {
             "country": "RUSSIA",
             "short": "RU ",
             "name": ""
         },
-        "id": "0454663",
+        "id": "0454032",
         "key": "5.137.104.183:1613"
     }
 ]
